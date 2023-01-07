@@ -1,0 +1,295 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| SPAIN |  #####" tvg-logo="" group-title="SPAIN FDH",##### |SP| SPAIN |  #####
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105226
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="|SP| TVE INTERNACIONAL HD" tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="SPAIN FDH",|SP| TVE INTERNACIONAL HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105225
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP| LA 1 HD" tvg-logo="http://134.255.234.197/logos/tvela1hd.png" group-title="SPAIN FDH",|SP| LA 1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105224
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP| LA 2  HD" tvg-logo="http://134.255.234.197/logos/tvela2hd.png" group-title="SPAIN FDH",|SP| LA 2  HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105223
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP| ANTENA 3 HD" tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="SPAIN FDH",|SP| ANTENA 3 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105222
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP| CUATRO HD" tvg-logo="http://134.255.234.197/logos/cuatrohd.png" group-title="SPAIN FDH",|SP| CUATRO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105221
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP| TELECINCO HD" tvg-logo="http://134.255.234.197/logos/telecincohd.png" group-title="SPAIN FDH",|SP| TELECINCO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105220
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP| LA SEXTA HD" tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="SPAIN FDH",|SP| LA SEXTA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105219
+#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="|SP| CANAL SUR A." tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="SPAIN FDH",|SP| CANAL SUR A.
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105218
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FDF" tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="SPAIN FDH",|SP| FDF
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105217
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP| ENERGY" tvg-logo="http://134.255.234.197/logos/energy.png" group-title="SPAIN FDH",|SP| ENERGY
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105216
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP| DIVINITY" tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="SPAIN FDH",|SP| DIVINITY
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105215
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP| MEGA HD" tvg-logo="http://134.255.234.197/logos/mega.png" group-title="SPAIN FDH",|SP| MEGA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105214
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP| BE MAD" tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="SPAIN FDH",|SP| BE MAD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105213
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| CANAL 24 HORAS" tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="SPAIN FDH",|SP| CANAL 24 HORAS
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105212
+#EXTINF:-1 tvg-id="" tvg-name="|SP| 0 HD" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="SPAIN FDH",|SP| 0 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105211
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="|SP| ARAGON TV INT" tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="SPAIN FDH",|SP| ARAGON TV INT
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105210
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP| NOVA" tvg-logo="http://134.255.234.197/logos/nova.png" group-title="SPAIN FDH",|SP| NOVA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105209
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL ORBE21" tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="SPAIN FDH",|SP| CANAL ORBE21
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105208
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="SPAIN FDH",|SP| 24 HORAS
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105207
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP| TVGA HD" tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="SPAIN FDH",|SP| TVGA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105206
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP| #VAMOS HD" tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="SPAIN FDH",|SP| #VAMOS HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105205
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP| XTRM HD" tvg-logo="http://134.255.234.197/logos/xtrm.png" group-title="SPAIN FDH",|SP| XTRM HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105204
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="|SP| ATRE SERIES HD" tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="SPAIN FDH",|SP| ATRE SERIES HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105203
+#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP| NEOX" tvg-logo="http://134.255.234.197/logos/neox.png" group-title="SPAIN FDH",|SP| NEOX
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105202
+#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| NINOS HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------ |SP| NINOS HD -------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105201
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP| BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="SPAIN FDH",|SP| BABY TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105200
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP| BOING" tvg-logo="http://134.255.234.197/logos/boing.png" group-title="SPAIN FDH",|SP| BOING
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105199
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP| CLAN TVE" tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="SPAIN FDH",|SP| CLAN TVE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105198
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP| DISNEY CH HD" tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="SPAIN FDH",|SP| DISNEY CH HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105197
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DISNEY JR" tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="SPAIN FDH",|SP| DISNEY JR
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105196
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="|SP| DREAMWORKS" tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="SPAIN FDH",|SP| DREAMWORKS
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105195
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP| NICK JR" tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="SPAIN FDH",|SP| NICK JR
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105194
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP| NICKELODEON  HD" tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="SPAIN FDH",|SP| NICKELODEON  HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105193
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP| CANAL PANDA" tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="SPAIN FDH",|SP| CANAL PANDA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105192
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| NICK/MTV" tvg-logo="" group-title="SPAIN FDH",|SP| NICK/MTV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105191
+#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| ENTRETENIMIENTO  HD ---------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------- |SP| ENTRETENIMIENTO  HD ---------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105190
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://134.255.234.197/logos/amc.png" group-title="SPAIN FDH",|SP| AMC HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105189
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://134.255.234.197/logos/axn.png" group-title="SPAIN FDH",|SP| AXN
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105188
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN HD" tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="SPAIN FDH",|SP| AXN HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105187
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP| AXN WHITE HD" tvg-logo="http://134.255.234.197/logos/axnwhitehd.png" group-title="SPAIN FDH",|SP| AXN WHITE HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105186
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP| CALLE 13 HD" tvg-logo="http://134.255.234.197/logos/calle13hd.png" group-title="SPAIN FDH",|SP| CALLE 13 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105185
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP| COMEDY CENTRAL HD" tvg-logo="http://134.255.234.197/logos/comedycentralhd.png" group-title="SPAIN FDH",|SP| COMEDY CENTRAL HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105184
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP| COSMO HD" tvg-logo="http://134.255.234.197/logos/cosmo.png" group-title="SPAIN FDH",|SP| COSMO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105183
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP| FOX HD" tvg-logo="http://134.255.234.197/logos/fox.png" group-title="SPAIN FDH",|SP| FOX HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105182
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="|SP| FOX LIFE HD" tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="SPAIN FDH",|SP| FOX LIFE HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105181
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP| HOLLYWOOD HD" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="SPAIN FDH",|SP| HOLLYWOOD HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105180
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP| PARAMOUNT" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="SPAIN FDH",|SP| PARAMOUNT
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105179
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP| SUNDANCE TV" tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="SPAIN FDH",|SP| SUNDANCE TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105178
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP| SYFY HD" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="SPAIN FDH",|SP| SYFY HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105177
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP| TCM HD" tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="SPAIN FDH",|SP| TCM HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105176
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP| TNT HD" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="SPAIN FDH",|SP| TNT HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105175
+#EXTINF:-1 tvg-id="classica.es" tvg-name="|SP| CLASSICA" tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="SPAIN FDH",|SP| CLASSICA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105174
+#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| MOVIESTAR HD --------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------ |SP| MOVIESTAR HD --------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105173
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP| M.ACCION HD" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="SPAIN FDH",|SP| M.ACCION HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105172
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP| M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="SPAIN FDH",|SP| M. CINE ESPANOL
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105171
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP| M. COMEDIA HD" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="SPAIN FDH",|SP| M. COMEDIA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105170
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP| M.DRAMA HD" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="SPAIN FDH",|SP| M.DRAMA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105169
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP| M.ESTRENOS HD" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="SPAIN FDH",|SP| M.ESTRENOS HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105168
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP| M.SERIES HD" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="SPAIN FDH",|SP| M.SERIES HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105167
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="|SP| M.SERIESMANIA HD" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="SPAIN FDH",|SP| M.SERIESMANIA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105166
+#EXTINF:-1 tvg-id="" tvg-name="-----| ALQELIER SPAIN |-----" tvg-logo="" group-title="SPAIN FDH",-----| ALQELIER SPAIN |-----
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105165
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="|ES| ALQELIER 1" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105164
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 2 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 2 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105163
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 3 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 3 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105162
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 4 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 4 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105161
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 5 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 5 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105160
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 6 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 6 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105159
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 7 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 7 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105158
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 8 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 8 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105157
+#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| MUSICA HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------- |SP| MUSICA HD -------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105156
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| MTV" tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="SPAIN FDH",|SP| MTV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105155
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV DANCE" tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="SPAIN FDH",|SP| MTV DANCE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105154
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP| MEZZO LIVE HD" tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="SPAIN FDH",|SP| MEZZO LIVE HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105153
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP| MEZZO" tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="SPAIN FDH",|SP| MEZZO
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105152
+#EXTINF:-1 tvg-id="" tvg-name="--------- |SP| CULTURA HD ------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",--------- |SP| CULTURA HD ------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105151
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP| BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="SPAIN FDH",|SP| BLAZE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105150
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP| CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="SPAIN FDH",|SP| CANAL COCINA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105149
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP| CANAL DECASA" tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="SPAIN FDH",|SP| CANAL DECASA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105148
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP| CAZAYPESCA HD" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="SPAIN FDH",|SP| CAZAYPESCA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105147
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP| IBERALIA TV" tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="SPAIN FDH",|SP| IBERALIA TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105143
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP| TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="SPAIN FDH",|SP| TOROS HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105107
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="|SP| CRIMEN+INVES" tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="SPAIN FDH",|SP| CRIMEN+INVES
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105146
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP| DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="SPAIN FDH",|SP| DISCOVERY
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105145
+#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP| HISTORIA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="SPAIN FDH",|SP| HISTORIA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105144
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP| NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="SPAIN FDH",|SP| NAT GEO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105142
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="SPAIN FDH",|SP| NAT GEO WILD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105141
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="SPAIN FDH",|SP| NAT GEO WILD HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105140
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="|SP| CANAL ODISEA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="SPAIN FDH",|SP| CANAL ODISEA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105139
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="|SP| VIAJAR HD" tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="SPAIN FDH",|SP| VIAJAR HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105138
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VH1" tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="SPAIN FDH",|SP| VH1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105137
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| DEPORTES #####" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",##### |SP| DEPORTES #####
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105136
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES1 HD" tvg-logo="http://134.255.234.197/logos/movistardeportes1.png" group-title="SPAIN FDH",|SP| M.DEPORTES1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105135
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="|SP| M. DEPORTES HD" tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="SPAIN FDH",|SP| M. DEPORTES HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105134
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP| TELEDEPORTE" tvg-logo="http://134.255.234.197/logos/teledeporte.png" group-title="SPAIN FDH",|SP| TELEDEPORTE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105133
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |SP| SPORTS HD -------------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",--------------- |SP| SPORTS HD -------------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105131
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="|ES| DAZN F1" tvg-logo="" group-title="SPAIN FDH",|ES| DAZN F1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105126
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|ES| REAL MADRID TV" tvg-logo="" group-title="SPAIN FDH",|ES| REAL MADRID TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105122
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|ES| BARCA TV" tvg-logo="" group-title="SPAIN FDH",|ES| BARCA TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105121
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|ES| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAIN FDH",|ES| EUROSPORT 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105120
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|ES| M. F1" tvg-logo="" group-title="SPAIN FDH",|ES| M. F1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105119
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|ES| M. GOLF" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="SPAIN FDH",|ES| M. GOLF
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105118
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="SPAIN FDH",|SP| M.LCAMPEONES
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105116
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="|SP| LALIGA TV BAR" tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="SPAIN FDH",|SP| LALIGA TV BAR
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105115
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|SP| BEIN LALIGA HD" tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="SPAIN FDH",|SP| BEIN LALIGA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105114
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT1 HD" tvg-logo="http://134.255.234.197/logos/eurosport1hd.png" group-title="SPAIN FDH",|SP| EUROSPORT1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105113
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAIN FDH",|SP| EUROSPORT 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105112
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP| EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1280px-Eurosport_2_logo.svg.png" group-title="SPAIN FDH",|SP| EUROSPORT 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105111
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP| GOL" tvg-logo="http://134.255.234.197/logos/gol.png" group-title="SPAIN FDH",|SP| GOL
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105110
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP| R. MADRID TV" tvg-logo="http://134.255.234.197/logos/realmadridtv.png" group-title="SPAIN FDH",|SP| R. MADRID TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105108
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="|SP| DAZN 1 HD" tvg-logo="http://134.255.234.197/logos/dazn1.png" group-title="SPAIN FDH",|SP| DAZN 1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105106
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="|SP| DAZN 2 HD" tvg-logo="http://134.255.234.197/logos/dazn2.png" group-title="SPAIN FDH",|SP| DAZN 2 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105105
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPAIN FDH",|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105094
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="SPAIN FDH",|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105093
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga3.png" group-title="SPAIN FDH",|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105092
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|SP| M.FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPAIN FDH",|SP| M.FORMULA1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105091
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|SP| M. FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPAIN FDH",|SP| M. FORMULA1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105090
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="barca tv" tvg-logo="http://134.255.234.197/logos/movistargolf.png" group-title="SPAIN FDH",barca tv
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105089
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarpartidazo.png" group-title="SPAIN FDH",|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105088
+#EXTINF:-1 tvg-id="" tvg-name="-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----" tvg-logo="" group-title="SPAIN FDH",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105070
+#EXTINF:-1 tvg-id="" tvg-name="DAZN liga 2" tvg-logo="" group-title="SPAIN FDH",DAZN liga 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/153520
+#EXTINF:-1 tvg-id="" tvg-name="DAZN liga 1" tvg-logo="" group-title="SPAIN FDH",DAZN liga 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/153519
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|ES| M. LALIGA" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105069
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="|ES| M. LALIGA 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105068
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="|ES| M. LALIGA 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105067
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="|ES| M. LALIGA 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 3
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105066
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="|ES| M. LALIGA 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105065
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="|ES| M. LALIGA 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 6
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105064
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="|ES| M. LALIGA 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 7
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105063
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="|ES| M. LALIGA 8" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105062
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="|ES| M. LALIGA 9" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 9
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105061
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 10" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 10
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105060
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|ES| M. DEPORTES 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105059
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="|ES| M. DEPORTES 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105058
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="|ES| M. DEPORTES 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 3
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105057
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="|ES| M. DEPORTES 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105056
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="|ES| M. DEPORTES 5" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 5
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105055
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="|ES| M. DEPORTES 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 6
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105054
+#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="|ES| M. DEPORTES 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 7
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105053
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="|ES| M. LCAMPEON 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105052
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105051
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="|ES| M. LCAMPEON 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 3
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105050
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="|ES| M. LCAMPEON 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105049
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="|ES| M. LCAMPEON 5" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 5
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105048
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="|ES| M. LCAMPEON 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 6
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105047
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="|ES| M. LCAMPEON 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 7
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105046
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="|ES| M. LCAMPEON 8" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105045
