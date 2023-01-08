@@ -1,295 +1,1057 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="##### |SP| SPAIN |  #####" tvg-logo="" group-title="SPAIN FDH",##### |SP| SPAIN |  #####
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105226
-#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="|SP| TVE INTERNACIONAL HD" tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="SPAIN FDH",|SP| TVE INTERNACIONAL HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105225
-#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP| LA 1 HD" tvg-logo="http://134.255.234.197/logos/tvela1hd.png" group-title="SPAIN FDH",|SP| LA 1 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105224
-#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP| LA 2  HD" tvg-logo="http://134.255.234.197/logos/tvela2hd.png" group-title="SPAIN FDH",|SP| LA 2  HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105223
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP| ANTENA 3 HD" tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="SPAIN FDH",|SP| ANTENA 3 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105222
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP| CUATRO HD" tvg-logo="http://134.255.234.197/logos/cuatrohd.png" group-title="SPAIN FDH",|SP| CUATRO HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105221
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP| TELECINCO HD" tvg-logo="http://134.255.234.197/logos/telecincohd.png" group-title="SPAIN FDH",|SP| TELECINCO HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105220
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP| LA SEXTA HD" tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="SPAIN FDH",|SP| LA SEXTA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105219
-#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="|SP| CANAL SUR A." tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="SPAIN FDH",|SP| CANAL SUR A.
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105218
-#EXTINF:-1 tvg-id="" tvg-name="|SP| FDF" tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="SPAIN FDH",|SP| FDF
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105217
-#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP| ENERGY" tvg-logo="http://134.255.234.197/logos/energy.png" group-title="SPAIN FDH",|SP| ENERGY
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105216
-#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP| DIVINITY" tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="SPAIN FDH",|SP| DIVINITY
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105215
-#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP| MEGA HD" tvg-logo="http://134.255.234.197/logos/mega.png" group-title="SPAIN FDH",|SP| MEGA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105214
-#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP| BE MAD" tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="SPAIN FDH",|SP| BE MAD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105213
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| CANAL 24 HORAS" tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="SPAIN FDH",|SP| CANAL 24 HORAS
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105212
-#EXTINF:-1 tvg-id="" tvg-name="|SP| 0 HD" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="SPAIN FDH",|SP| 0 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105211
-#EXTINF:-1 tvg-id="aragontv.es" tvg-name="|SP| ARAGON TV INT" tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="SPAIN FDH",|SP| ARAGON TV INT
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105210
-#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP| NOVA" tvg-logo="http://134.255.234.197/logos/nova.png" group-title="SPAIN FDH",|SP| NOVA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105209
-#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL ORBE21" tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="SPAIN FDH",|SP| CANAL ORBE21
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105208
-#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="SPAIN FDH",|SP| 24 HORAS
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105207
-#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP| TVGA HD" tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="SPAIN FDH",|SP| TVGA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105206
-#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP| #VAMOS HD" tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="SPAIN FDH",|SP| #VAMOS HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105205
-#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP| XTRM HD" tvg-logo="http://134.255.234.197/logos/xtrm.png" group-title="SPAIN FDH",|SP| XTRM HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105204
-#EXTINF:-1 tvg-id="atreseries.es" tvg-name="|SP| ATRE SERIES HD" tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="SPAIN FDH",|SP| ATRE SERIES HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105203
-#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP| NEOX" tvg-logo="http://134.255.234.197/logos/neox.png" group-title="SPAIN FDH",|SP| NEOX
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105202
-#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| NINOS HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------ |SP| NINOS HD -------------
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105201
-#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP| BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="SPAIN FDH",|SP| BABY TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105200
-#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP| BOING" tvg-logo="http://134.255.234.197/logos/boing.png" group-title="SPAIN FDH",|SP| BOING
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105199
-#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP| CLAN TVE" tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="SPAIN FDH",|SP| CLAN TVE
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105198
-#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP| DISNEY CH HD" tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="SPAIN FDH",|SP| DISNEY CH HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105197
-#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DISNEY JR" tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="SPAIN FDH",|SP| DISNEY JR
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105196
-#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="|SP| DREAMWORKS" tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="SPAIN FDH",|SP| DREAMWORKS
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105195
-#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP| NICK JR" tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="SPAIN FDH",|SP| NICK JR
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105194
-#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP| NICKELODEON  HD" tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="SPAIN FDH",|SP| NICKELODEON  HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105193
-#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP| CANAL PANDA" tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="SPAIN FDH",|SP| CANAL PANDA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105192
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| NICK/MTV" tvg-logo="" group-title="SPAIN FDH",|SP| NICK/MTV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105191
-#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| ENTRETENIMIENTO  HD ---------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------- |SP| ENTRETENIMIENTO  HD ---------------
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105190
-#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://134.255.234.197/logos/amc.png" group-title="SPAIN FDH",|SP| AMC HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105189
-#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://134.255.234.197/logos/axn.png" group-title="SPAIN FDH",|SP| AXN
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105188
-#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN HD" tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="SPAIN FDH",|SP| AXN HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105187
-#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP| AXN WHITE HD" tvg-logo="http://134.255.234.197/logos/axnwhitehd.png" group-title="SPAIN FDH",|SP| AXN WHITE HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105186
-#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP| CALLE 13 HD" tvg-logo="http://134.255.234.197/logos/calle13hd.png" group-title="SPAIN FDH",|SP| CALLE 13 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105185
-#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP| COMEDY CENTRAL HD" tvg-logo="http://134.255.234.197/logos/comedycentralhd.png" group-title="SPAIN FDH",|SP| COMEDY CENTRAL HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105184
-#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP| COSMO HD" tvg-logo="http://134.255.234.197/logos/cosmo.png" group-title="SPAIN FDH",|SP| COSMO HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105183
-#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP| FOX HD" tvg-logo="http://134.255.234.197/logos/fox.png" group-title="SPAIN FDH",|SP| FOX HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105182
-#EXTINF:-1 tvg-id="foxlife.es" tvg-name="|SP| FOX LIFE HD" tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="SPAIN FDH",|SP| FOX LIFE HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105181
-#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP| HOLLYWOOD HD" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="SPAIN FDH",|SP| HOLLYWOOD HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105180
-#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP| PARAMOUNT" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="SPAIN FDH",|SP| PARAMOUNT
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105179
-#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP| SUNDANCE TV" tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="SPAIN FDH",|SP| SUNDANCE TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105178
-#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP| SYFY HD" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="SPAIN FDH",|SP| SYFY HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105177
-#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP| TCM HD" tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="SPAIN FDH",|SP| TCM HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105176
-#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP| TNT HD" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="SPAIN FDH",|SP| TNT HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105175
-#EXTINF:-1 tvg-id="classica.es" tvg-name="|SP| CLASSICA" tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="SPAIN FDH",|SP| CLASSICA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105174
-#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| MOVIESTAR HD --------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------ |SP| MOVIESTAR HD --------------
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105173
-#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP| M.ACCION HD" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="SPAIN FDH",|SP| M.ACCION HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105172
-#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP| M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="SPAIN FDH",|SP| M. CINE ESPANOL
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105171
-#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP| M. COMEDIA HD" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="SPAIN FDH",|SP| M. COMEDIA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105170
-#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP| M.DRAMA HD" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="SPAIN FDH",|SP| M.DRAMA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105169
-#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP| M.ESTRENOS HD" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="SPAIN FDH",|SP| M.ESTRENOS HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105168
-#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP| M.SERIES HD" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="SPAIN FDH",|SP| M.SERIES HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105167
-#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="|SP| M.SERIESMANIA HD" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="SPAIN FDH",|SP| M.SERIESMANIA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105166
-#EXTINF:-1 tvg-id="" tvg-name="-----| ALQELIER SPAIN |-----" tvg-logo="" group-title="SPAIN FDH",-----| ALQELIER SPAIN |-----
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105165
-#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="|ES| ALQELIER 1" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105164
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 2 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 2 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105163
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 3 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 3 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105162
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 4 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 4 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105161
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 5 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 5 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105160
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 6 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 6 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105159
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 7 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 7 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105158
-#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 8 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 8 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105157
-#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| MUSICA HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------- |SP| MUSICA HD -------------
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105156
-#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| MTV" tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="SPAIN FDH",|SP| MTV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105155
-#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV DANCE" tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="SPAIN FDH",|SP| MTV DANCE
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105154
-#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP| MEZZO LIVE HD" tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="SPAIN FDH",|SP| MEZZO LIVE HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105153
-#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP| MEZZO" tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="SPAIN FDH",|SP| MEZZO
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105152
-#EXTINF:-1 tvg-id="" tvg-name="--------- |SP| CULTURA HD ------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",--------- |SP| CULTURA HD ------------
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105151
-#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP| BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="SPAIN FDH",|SP| BLAZE
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105150
-#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP| CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="SPAIN FDH",|SP| CANAL COCINA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105149
-#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP| CANAL DECASA" tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="SPAIN FDH",|SP| CANAL DECASA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105148
-#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP| CAZAYPESCA HD" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="SPAIN FDH",|SP| CAZAYPESCA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105147
-#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP| IBERALIA TV" tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="SPAIN FDH",|SP| IBERALIA TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105143
-#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP| TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="SPAIN FDH",|SP| TOROS HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105107
-#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="|SP| CRIMEN+INVES" tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="SPAIN FDH",|SP| CRIMEN+INVES
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105146
-#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP| DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="SPAIN FDH",|SP| DISCOVERY
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105145
-#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP| HISTORIA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="SPAIN FDH",|SP| HISTORIA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105144
-#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP| NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="SPAIN FDH",|SP| NAT GEO HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105142
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="SPAIN FDH",|SP| NAT GEO WILD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105141
-#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="SPAIN FDH",|SP| NAT GEO WILD HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105140
-#EXTINF:-1 tvg-id="odisea.es" tvg-name="|SP| CANAL ODISEA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="SPAIN FDH",|SP| CANAL ODISEA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105139
-#EXTINF:-1 tvg-id="viajar.es" tvg-name="|SP| VIAJAR HD" tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="SPAIN FDH",|SP| VIAJAR HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105138
-#EXTINF:-1 tvg-id="" tvg-name="|SP| VH1" tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="SPAIN FDH",|SP| VH1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105137
-#EXTINF:-1 tvg-id="" tvg-name="##### |SP| DEPORTES #####" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",##### |SP| DEPORTES #####
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105136
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES1 HD" tvg-logo="http://134.255.234.197/logos/movistardeportes1.png" group-title="SPAIN FDH",|SP| M.DEPORTES1 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105135
-#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="|SP| M. DEPORTES HD" tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="SPAIN FDH",|SP| M. DEPORTES HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105134
-#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP| TELEDEPORTE" tvg-logo="http://134.255.234.197/logos/teledeporte.png" group-title="SPAIN FDH",|SP| TELEDEPORTE
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105133
-#EXTINF:-1 tvg-id="" tvg-name="--------------- |SP| SPORTS HD -------------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",--------------- |SP| SPORTS HD -------------------
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105131
-#EXTINF:-1 tvg-id="daznf1.es" tvg-name="|ES| DAZN F1" tvg-logo="" group-title="SPAIN FDH",|ES| DAZN F1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105126
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|ES| REAL MADRID TV" tvg-logo="" group-title="SPAIN FDH",|ES| REAL MADRID TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105122
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|ES| BARCA TV" tvg-logo="" group-title="SPAIN FDH",|ES| BARCA TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105121
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|ES| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAIN FDH",|ES| EUROSPORT 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105120
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|ES| M. F1" tvg-logo="" group-title="SPAIN FDH",|ES| M. F1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105119
-#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|ES| M. GOLF" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="SPAIN FDH",|ES| M. GOLF
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105118
-#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="SPAIN FDH",|SP| M.LCAMPEONES
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105116
-#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="|SP| LALIGA TV BAR" tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="SPAIN FDH",|SP| LALIGA TV BAR
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105115
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|SP| BEIN LALIGA HD" tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="SPAIN FDH",|SP| BEIN LALIGA HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105114
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT1 HD" tvg-logo="http://134.255.234.197/logos/eurosport1hd.png" group-title="SPAIN FDH",|SP| EUROSPORT1 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105113
-#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAIN FDH",|SP| EUROSPORT 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105112
-#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP| EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1280px-Eurosport_2_logo.svg.png" group-title="SPAIN FDH",|SP| EUROSPORT 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105111
-#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP| GOL" tvg-logo="http://134.255.234.197/logos/gol.png" group-title="SPAIN FDH",|SP| GOL
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105110
-#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP| R. MADRID TV" tvg-logo="http://134.255.234.197/logos/realmadridtv.png" group-title="SPAIN FDH",|SP| R. MADRID TV
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105108
-#EXTINF:-1 tvg-id="dazn1.es" tvg-name="|SP| DAZN 1 HD" tvg-logo="http://134.255.234.197/logos/dazn1.png" group-title="SPAIN FDH",|SP| DAZN 1 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105106
-#EXTINF:-1 tvg-id="dazn2.es" tvg-name="|SP| DAZN 2 HD" tvg-logo="http://134.255.234.197/logos/dazn2.png" group-title="SPAIN FDH",|SP| DAZN 2 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105105
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPAIN FDH",|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105094
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="SPAIN FDH",|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105093
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga3.png" group-title="SPAIN FDH",|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105092
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|SP| M.FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPAIN FDH",|SP| M.FORMULA1 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105091
-#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|SP| M. FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPAIN FDH",|SP| M. FORMULA1 HD
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105090
-#EXTINF:-1 tvg-id="barcatv.es" tvg-name="barca tv" tvg-logo="http://134.255.234.197/logos/movistargolf.png" group-title="SPAIN FDH",barca tv
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105089
-#EXTINF:-1 tvg-id="" tvg-name="|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarpartidazo.png" group-title="SPAIN FDH",|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105088
-#EXTINF:-1 tvg-id="" tvg-name="-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----" tvg-logo="" group-title="SPAIN FDH",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105070
-#EXTINF:-1 tvg-id="" tvg-name="DAZN liga 2" tvg-logo="" group-title="SPAIN FDH",DAZN liga 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/153520
-#EXTINF:-1 tvg-id="" tvg-name="DAZN liga 1" tvg-logo="" group-title="SPAIN FDH",DAZN liga 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/153519
-#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|ES| M. LALIGA" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105069
-#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="|ES| M. LALIGA 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105068
-#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="|ES| M. LALIGA 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105067
-#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="|ES| M. LALIGA 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 3
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105066
-#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="|ES| M. LALIGA 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 4
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105065
-#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="|ES| M. LALIGA 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 6
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105064
-#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="|ES| M. LALIGA 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 7
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105063
-#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="|ES| M. LALIGA 8" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 8
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105062
-#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="|ES| M. LALIGA 9" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 9
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105061
-#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 10" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 10
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105060
-#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|ES| M. DEPORTES 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105059
-#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="|ES| M. DEPORTES 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105058
-#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="|ES| M. DEPORTES 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 3
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105057
-#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="|ES| M. DEPORTES 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 4
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105056
-#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="|ES| M. DEPORTES 5" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 5
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105055
-#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="|ES| M. DEPORTES 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 6
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105054
-#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="|ES| M. DEPORTES 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 7
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105053
-#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="|ES| M. LCAMPEON 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 1
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105052
-#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 2
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105051
-#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="|ES| M. LCAMPEON 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 3
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105050
-#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="|ES| M. LCAMPEON 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 4
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105049
-#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="|ES| M. LCAMPEON 5" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 5
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105048
-#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="|ES| M. LCAMPEON 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 6
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105047
-#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="|ES| M. LCAMPEON 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 7
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105046
-#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="|ES| M. LCAMPEON 8" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 8
-http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105045
+#EXTINF:-1 tvg-id="" tvg-name="### SUP MOVIES ###" tvg-logo="" group-title="Movistar",### SUP MOVIES ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27147
+#EXTINF:-1 tvg-id="13tv.es" tvg-name="HBO Max 1" tvg-logo="" group-title="Movistar",HBO Max 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26649
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 2" tvg-logo="" group-title="Movistar",HBO Max 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26650
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 3" tvg-logo="" group-title="Movistar",HBO Max 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26651
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 4" tvg-logo="" group-title="Movistar",HBO Max 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26652
+#EXTINF:-1 tvg-id="" tvg-name="HBO Max 5" tvg-logo="" group-title="Movistar",HBO Max 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26661
+#EXTINF:-1 tvg-id="" tvg-name="Cinesur 1" tvg-logo="" group-title="Movistar",Cinesur 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26715
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Studios 1" tvg-logo="" group-title="Movistar",Marvel Studios 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26654
+#EXTINF:-1 tvg-id="" tvg-name="Marvel Studios 2" tvg-logo="" group-title="Movistar",Marvel Studios 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26655
+#EXTINF:-1 tvg-id="" tvg-name="Procaja Tv1" tvg-logo="" group-title="Movistar",Procaja Tv1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26722
+#EXTINF:-1 tvg-id="" tvg-name="Procaja Tv2" tvg-logo="" group-title="Movistar",Procaja Tv2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26723
+#EXTINF:-1 tvg-id="" tvg-name="Procaja Tv3" tvg-logo="" group-title="Movistar",Procaja Tv3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26724
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 1" tvg-logo="" group-title="Movistar",Apple TV+ 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26720
+#EXTINF:-1 tvg-id="" tvg-name="Apple TV+ 2" tvg-logo="" group-title="Movistar",Apple TV+ 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26721
+#EXTINF:-1 tvg-id="" tvg-name="Movistar+1 4K" tvg-logo="" group-title="Movistar",Movistar+1 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26660
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior Movies 1" tvg-logo="" group-title="Movistar",Disney Junior Movies 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26656
+#EXTINF:-1 tvg-id="" tvg-name="Disney Junior Movies 2" tvg-logo="" group-title="Movistar",Disney Junior Movies 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26657
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 1" tvg-logo="" group-title="Movistar",Prime Video 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26653
+#EXTINF:-1 tvg-id="" tvg-name="Prime Video 2" tvg-logo="" group-title="Movistar",Prime Video 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26658
+#EXTINF:-1 tvg-id="" tvg-name="Canal Alquiler HD 1" tvg-logo="" group-title="Movistar",Canal Alquiler HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26647
+#EXTINF:-1 tvg-id="" tvg-name="Disney + 1" tvg-logo="" group-title="Movistar",Disney + 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26648
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 1 HD" tvg-logo="" group-title="Movistar",Rakuten TV Top 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26716
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Top 2 HD" tvg-logo="" group-title="Movistar",Rakuten TV Top 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26717
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Family HD" tvg-logo="" group-title="Movistar",Rakuten TV Family HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26718
+#EXTINF:-1 tvg-id="" tvg-name="### NATIONAL ###" tvg-logo="" group-title="Movistar",### NATIONAL ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27155
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",LA 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/355
+#EXTINF:-1 tvg-id="" tvg-name="LA 1 FULL HD" tvg-logo="" group-title="Movistar",LA 1 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3797
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="LA 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",LA 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/421
+#EXTINF:-1 tvg-id="" tvg-name="LA 2 FULL HD" tvg-logo="" group-title="Movistar",LA 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3846
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="ANTENA 3 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",ANTENA 3 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/348
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3 FULL HD" tvg-logo="" group-title="Movistar",ANTENA 3 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3790
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="CUATRO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CUATRO HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/351
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO FULL HD" tvg-logo="" group-title="Movistar",CUATRO FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3793
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="TELECINCO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",TELECINCO HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/374
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO FULL HD" tvg-logo="" group-title="Movistar",TELECINCO FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3814
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="LA SEXTA HD" tvg-logo="" group-title="Movistar",LA SEXTA HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/356
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA FULL HD" tvg-logo="" group-title="Movistar",LA SEXTA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3798
+#EXTINF:-1 tvg-id="nova.es" tvg-name="NOVA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",NOVA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/453
+#EXTINF:-1 tvg-id="" tvg-name="NOVA FULL HD" tvg-logo="" group-title="Movistar",NOVA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3854
+#EXTINF:-1 tvg-id="neox.es" tvg-name="NEOX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",NEOX
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/450
+#EXTINF:-1 tvg-id="" tvg-name="NEOX FULL HD" tvg-logo="" group-title="Movistar",NEOX FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3851
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV INT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",ARAGON TV INT
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/381
+#EXTINF:-1 tvg-id="" tvg-name="ARAGON TV FULL HD" tvg-logo="" group-title="Movistar",ARAGON TV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3820
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR HD" tvg-logo="" group-title="Movistar",CANAL SUR HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25851
+#EXTINF:-1 tvg-id="" tvg-name="CANAL SUR 2 HD" tvg-logo="" group-title="Movistar",CANAL SUR 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25850
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="24 HORAS" tvg-logo="" group-title="Movistar",24 HORAS
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/380
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS FULL HD" tvg-logo="" group-title="Movistar",24 HORAS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27213
+#EXTINF:-1 tvg-id="" tvg-name="Malaga 24h Noticias" tvg-logo="" group-title="Movistar",Malaga 24h Noticias
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27177
+#EXTINF:-1 tvg-id="" tvg-name="### 4k ###" tvg-logo="" group-title="Movistar",### 4k ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27154
+#EXTINF:-1 tvg-id="" tvg-name="M+ #0 4K" tvg-logo="http://russia.za3za3.com:19745/imagesiptv/logos/1/SPAIN/canal0.png" group-title="Movistar",M+ #0 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26172
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="LA 1 4K" tvg-logo="" group-title="Movistar",LA 1 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26150
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 4K" tvg-logo="" group-title="Movistar",LA 2 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26151
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="ANTENA 3 4K" tvg-logo="" group-title="Movistar",ANTENA 3 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26152
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="CUATRO 4K" tvg-logo="" group-title="Movistar",CUATRO 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26153
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="TELECINCO 4K" tvg-logo="" group-title="Movistar",TELECINCO 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26154
+#EXTINF:-1 tvg-id="" tvg-name="TOROS 4K" tvg-logo="" group-title="Movistar",TOROS 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26276
+#EXTINF:-1 tvg-id="" tvg-name=" EUROSPORT1 4K" tvg-logo="" group-title="Movistar", EUROSPORT1 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26281
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS 4K" tvg-logo="" group-title="Movistar",M+ #VAMOS 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26267
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="LA SEXTA 4K" tvg-logo="" group-title="Movistar",LA SEXTA 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26155
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ SERIES 4K" tvg-logo="" group-title="Movistar",M+ SERIES 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26160
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ DRAMA 4K" tvg-logo="" group-title="Movistar",M+ DRAMA 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26159
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ COMEDIA 4K" tvg-logo="" group-title="Movistar",M+ COMEDIA 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26158
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ ACCIÓN 4K" tvg-logo="" group-title="Movistar",M+ ACCIÓN 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26157
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ ESTRENOS 4K" tvg-logo="" group-title="Movistar",M+ ESTRENOS 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26156
+#EXTINF:-1 tvg-id="" tvg-name=" LALIGATV BAR 4K" tvg-logo="" group-title="Movistar", LALIGATV BAR 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26269
+#EXTINF:-1 tvg-id="" tvg-name=" #VAMOS BAR 4K" tvg-logo="" group-title="Movistar", #VAMOS BAR 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26270
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 4K" tvg-logo="" group-title="Movistar",DAZN F1 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26271
+#EXTINF:-1 tvg-id="" tvg-name=" NAT GEO 4K " tvg-logo="" group-title="Movistar", NAT GEO 4K 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26322
+#EXTINF:-1 tvg-id="" tvg-name=" M+ GOLF 4K " tvg-logo="" group-title="Movistar", M+ GOLF 4K 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26323
+#EXTINF:-1 tvg-id="" tvg-name=" NG WILD 4K" tvg-logo="" group-title="Movistar", NG WILD 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26324
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4K" tvg-logo="" group-title="Movistar",TNT 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27179
+#EXTINF:-1 tvg-id="" tvg-name="SYFY 4K" tvg-logo="" group-title="Movistar",SYFY 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27180
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 4K" tvg-logo="" group-title="Movistar",M+ SERIES 2 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27181
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD 4K" tvg-logo="" group-title="Movistar",HOLLYWOOD 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27182
+#EXTINF:-1 tvg-id="" tvg-name="FOX 4K" tvg-logo="" group-title="Movistar",FOX 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27183
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="" group-title="Movistar",DAZN 4 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27184
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="" group-title="Movistar",DAZN 3 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27185
+#EXTINF:-1 tvg-id="" tvg-name="AMC 4K" tvg-logo="" group-title="Movistar",AMC 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27186
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HEVC" tvg-logo="" group-title="Movistar",M+ LCAMPEONES HEVC
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26067
+#EXTINF:-1 tvg-id="" tvg-name="### CINE ###" tvg-logo="" group-title="Movistar",### CINE ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27148
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ ESTRENOS HD" tvg-logo="" group-title="Movistar",M+ ESTRENOS HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/364
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS FULL HD" tvg-logo="" group-title="Movistar",M+ ESTRENOS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3805
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="M+ ESTRENOS 2 HD" tvg-logo="" group-title="Movistar",M+ ESTRENOS 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26663
+#EXTINF:-1 tvg-id="" tvg-name="M+ ESTRENOS 2 FULL HD" tvg-logo="" group-title="Movistar",M+ ESTRENOS 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27193
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ ACCION HD" tvg-logo="" group-title="Movistar",M+ ACCION HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/358
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCION FULL HD" tvg-logo="" group-title="Movistar",M+ ACCION FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3799
+#EXTINF:-1 tvg-id="accion2.es" tvg-name="M+ ACCIÓN 2 HD" tvg-logo="" group-title="Movistar",M+ ACCIÓN 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27198
+#EXTINF:-1 tvg-id="" tvg-name="M+ ACCIÓN 2 FULL HD" tvg-logo="" group-title="Movistar",M+ ACCIÓN 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27199
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ COMEDIA HD" tvg-logo="" group-title="Movistar",M+ COMEDIA HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/363
+#EXTINF:-1 tvg-id="" tvg-name="M+ COMEDIA FULL HD" tvg-logo="" group-title="Movistar",M+ COMEDIA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3804
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="M+ DRAMA HD" tvg-logo="" group-title="Movistar",M+ DRAMA HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/360
+#EXTINF:-1 tvg-id="" tvg-name="M+ DRAMA FULL HD" tvg-logo="" group-title="Movistar",M+ DRAMA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3801
+#EXTINF:-1 tvg-id="drama2.es" tvg-name="M+ DRAMA 2 HD" tvg-logo="" group-title="Movistar",M+ DRAMA 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27200
+#EXTINF:-1 tvg-id="drama2.es" tvg-name="M+ DRAMA 2 FULL HD" tvg-logo="" group-title="Movistar",M+ DRAMA 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27201
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="M+ Cine Español" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",M+ Cine Español
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/426
+#EXTINF:-1 tvg-id="" tvg-name="M+ Cine Español FULL HD" tvg-logo="" group-title="Movistar",M+ Cine Español FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3847
+#EXTINF:-1 tvg-id="" tvg-name="M+ Fest HD" tvg-logo="" group-title="Movistar",M+ Fest HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26664
+#EXTINF:-1 tvg-id="" tvg-name="M+ Fest FULL HD" tvg-logo="" group-title="Movistar",M+ Fest FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27192
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS HD" tvg-logo="" group-title="Movistar",M+ CLASICOS HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26665
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS FULL HD" tvg-logo="" group-title="Movistar",M+ CLASICOS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27214
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="HOLLYWOOD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",HOLLYWOOD HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/354
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD FULL HD" tvg-logo="" group-title="Movistar",HOLLYWOOD FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3796
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="TCM HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",TCM HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/373
+#EXTINF:-1 tvg-id="" tvg-name="TCM FULL HD" tvg-logo="" group-title="Movistar",TCM FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3813
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="TNT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",TNT HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/375
+#EXTINF:-1 tvg-id="" tvg-name="TNT FULL HD" tvg-logo="" group-title="Movistar",TNT FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3815
+#EXTINF:-1 tvg-id="" tvg-name="### SERIES ###" tvg-logo="" group-title="Movistar",### SERIES ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27149
+#EXTINF:-1 tvg-id="" tvg-name="M+ #0 HD" tvg-logo="" group-title="Movistar",M+ #0 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/378
+#EXTINF:-1 tvg-id="" tvg-name="M+ #0 FULL HD" tvg-logo="" group-title="Movistar",M+ #0 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3818
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ SERIES HD" tvg-logo="" group-title="Movistar",M+ SERIES HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/362
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES FULL HD" tvg-logo="" group-title="Movistar",M+ SERIES FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3803
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 HD" tvg-logo="" group-title="Movistar",M+ SERIES 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26662
+#EXTINF:-1 tvg-id="" tvg-name="M+ SERIES 2 FULL HD" tvg-logo="" group-title="Movistar",M+ SERIES 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3809
+#EXTINF:-1 tvg-id="fox.es" tvg-name="FOX HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",FOX HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/353
+#EXTINF:-1 tvg-id="" tvg-name="FOX FULL HD" tvg-logo="" group-title="Movistar",FOX FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3795
+#EXTINF:-1 tvg-id="" tvg-name="AMC HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",AMC HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/347
+#EXTINF:-1 tvg-id="" tvg-name="AMC FULL HD" tvg-logo="" group-title="Movistar",AMC FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3789
+#EXTINF:-1 tvg-id="axn.es" tvg-name="AXN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",AXN HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/349
+#EXTINF:-1 tvg-id="" tvg-name="AXN FULL HD" tvg-logo="" group-title="Movistar",AXN FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3791
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="AXN WHITE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",AXN WHITE HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/382
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE FULL HD" tvg-logo="" group-title="Movistar",AXN WHITE FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3821
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="SYFY HD" tvg-logo="" group-title="Movistar",SYFY HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/372
+#EXTINF:-1 tvg-id="" tvg-name="SYFY FULL HD" tvg-logo="" group-title="Movistar",SYFY FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3812
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="CALLE 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CALLE 13 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/350
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13 FULL HD" tvg-logo="" group-title="Movistar",CALLE 13 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3792
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",PARAMOUNT
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/454
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT FULL HD" tvg-logo="" group-title="Movistar",PARAMOUNT FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3855
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME" tvg-logo="" group-title="Movistar",AMC CRIME
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27190
+#EXTINF:-1 tvg-id="" tvg-name="AMC CRIME FULL HD" tvg-logo="" group-title="Movistar",AMC CRIME FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3835
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="" group-title="Movistar",AMC BREAK
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27191
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK FULL HD" tvg-logo="" group-title="Movistar",AMC BREAK FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3825
+#EXTINF:-1 tvg-id="" tvg-name="### Entretenimiento ###" tvg-logo="" group-title="Movistar",### Entretenimiento ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27150
+#EXTINF:-1 tvg-id="" tvg-name="La Resistencia" tvg-logo="" group-title="Movistar",La Resistencia
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27187
+#EXTINF:-1 tvg-id="" tvg-name="M+ VACACIONES" tvg-logo="" group-title="Movistar",M+ VACACIONES
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27188
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS #V HD" tvg-logo="" group-title="Movistar",M+ ELLAS #V HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27159
+#EXTINF:-1 tvg-id="" tvg-name="M+ ELLAS FULL HD" tvg-logo="" group-title="Movistar",M+ ELLAS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27189
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="COMEDYCENTRAL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",COMEDYCENTRAL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/405
+#EXTINF:-1 tvg-id="" tvg-name="COMEDYCENTRAL FULL HD" tvg-logo="" group-title="Movistar",COMEDYCENTRAL FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3833
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="BE MAD HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",BE MAD HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/385
+#EXTINF:-1 tvg-id="" tvg-name="BE MAD FULL HD" tvg-logo="" group-title="Movistar",BE MAD FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3824
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="COSMO HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",COSMO HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/406
+#EXTINF:-1 tvg-id="" tvg-name="COSMO FULL HD" tvg-logo="" group-title="Movistar",COSMO FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3834
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="FDF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",FDF
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/415
+#EXTINF:-1 tvg-id="" tvg-name="FDF FULL HD" tvg-logo="" group-title="Movistar",FDF FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3841
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="CANAL COCINA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CANAL COCINA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/397
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA FULL HD" tvg-logo="" group-title="Movistar",CANAL COCINA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3827
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="DIVINITY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",DIVINITY
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/412
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY FULL HD" tvg-logo="" group-title="Movistar",DIVINITY FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3839
+#EXTINF:-1 tvg-id="energy.es" tvg-name="ENERGY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",ENERGY
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/413
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY FULL HD" tvg-logo="" group-title="Movistar",ENERGY FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3840
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",SUNDANCE TV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/456
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE TV FULL HD" tvg-logo="" group-title="Movistar",SUNDANCE TV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3856
+#EXTINF:-1 tvg-id="toros.es" tvg-name="TOROS HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",TOROS HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/376
+#EXTINF:-1 tvg-id="" tvg-name="TOROS FULL HD" tvg-logo="" group-title="Movistar",TOROS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3816
+#EXTINF:-1 tvg-id="" tvg-name="### Deportes ###" tvg-logo="" group-title="Movistar",### Deportes ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27151
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD" tvg-logo="" group-title="Movistar",DAZN LaLiga HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27160
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga HD+" tvg-logo="" group-title="Movistar",DAZN LaLiga HD+
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27173
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga SD" tvg-logo="" group-title="Movistar",DAZN LaLiga SD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27170
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="" group-title="Movistar",DAZN LaLiga
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27174
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga FULL HD" tvg-logo="" group-title="Movistar",DAZN LaLiga FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27175
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 2K" tvg-logo="" group-title="Movistar",DAZN LaLiga 2K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27169
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga 4K" tvg-logo="" group-title="Movistar",DAZN LaLiga 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27168
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 HD" tvg-logo="" group-title="Movistar",DAZN LaLiga2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27161
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga2 FULL HD" tvg-logo="" group-title="Movistar",DAZN LaLiga2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27163
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ LaLigaTVHD" tvg-logo="https://www.logofootball.net/wp-content/uploads/La-Liga-Logo.png" group-title="Movistar",M+ LaLigaTVHD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26046
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD+" tvg-logo="" group-title="Movistar",M+ LaLigaTVHD+
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26248
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTVHD++" tvg-logo="" group-title="Movistar",M+ LaLigaTVHD++
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26246
+#EXTINF:-1 tvg-id="" tvg-name="LALIGATV BAR HD" tvg-logo="" group-title="Movistar",LALIGATV BAR HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/357
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS Espana" tvg-logo="" group-title="Movistar",beIN SPORTS Espana
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26321
+#EXTINF:-1 tvg-id="" tvg-name="Bein Laliga/ beIN Sport" tvg-logo="" group-title="Movistar",Bein Laliga/ beIN Sport
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/386
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ LaLigaTV" tvg-logo="" group-title="Movistar",M+ LaLigaTV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/435
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV +" tvg-logo="" group-title="Movistar",M+ LaLigaTV +
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26247
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 2K" tvg-logo="" group-title="Movistar",M+ LaLigaTV 2K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26141
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 4K" tvg-logo="" group-title="Movistar",M+ LaLigaTV 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26142
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV FULL HD" tvg-logo="" group-title="Movistar",M+ LaLigaTV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3849
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD" tvg-logo="" group-title="Movistar",LigaSmartBankHD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27164
+#EXTINF:-1 tvg-id="" tvg-name="LigaSmartBankHD FULL HD" tvg-logo="" group-title="Movistar",LigaSmartBankHD FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27166
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2" tvg-logo="" group-title="Movistar",Liga SmartBank 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27194
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 2 FULL HD" tvg-logo="" group-title="Movistar",Liga SmartBank 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27196
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3" tvg-logo="" group-title="Movistar",Liga SmartBank 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27195
+#EXTINF:-1 tvg-id="" tvg-name="Liga SmartBank 3 FULL HD" tvg-logo="" group-title="Movistar",Liga SmartBank 3 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27197
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 2 HD" tvg-logo="" group-title="Movistar",M+ LaLigaTV 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26048
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 2 FULL HD" tvg-logo="" group-title="Movistar",M+ LaLigaTV 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26045
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 3 HD" tvg-logo="" group-title="Movistar",M+ LaLigaTV 3 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24927
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 3 FULL HD" tvg-logo="" group-title="Movistar",M+ LaLigaTV 3 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26044
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 4 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 4 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/390
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 5  (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 5  (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24926
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 6 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 6 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24925
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 7 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 7 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/393
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 8 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 8 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/394
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 9 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 9 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24924
+#EXTINF:-1 tvg-id="" tvg-name="M+ LaLigaTV 10 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LaLigaTV 10 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24928
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="M+ LCAMPEONES HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",M+ LCAMPEONES HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/445
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES HD+" tvg-logo="" group-title="Movistar",M+ LCAMPEONES HD+
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26315
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4K" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26140
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES FULL HD" tvg-logo="" group-title="Movistar",M+ LCAMPEONES FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26078
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 1080P" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 1080P
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26316
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES SD" tvg-logo="" group-title="Movistar",M+ LCAMPEONES SD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26317
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES +" tvg-logo="" group-title="Movistar",M+ LCAMPEONES +
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26318
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES BAR" tvg-logo="" group-title="Movistar",M+ LCAMPEONES BAR
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27211
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 2 HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/439
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 2 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26080
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 3 HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 3 HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/440
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 3 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26081
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 4 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/441
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 4 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26082
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 5 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 5 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/442
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 5 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26083
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 6 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 6 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/443
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 6 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26084
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 7 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 7 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/444
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 7 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26085
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 8 FULL HD  (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26086
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 9 FULL HD  (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26711
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 10 FULL HD  (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26712
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 11 FULL HD  (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26713
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 12 FULL HD  (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26714
+#EXTINF:-1 tvg-id="" tvg-name="M+ LCAMPEONES 13 FULL HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ LCAMPEONES 13 FULL HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27215
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOSHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",M+ #VAMOSHD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/379
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS FULL HD" tvg-logo="" group-title="Movistar",M+ #VAMOS FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3819
+#EXTINF:-1 tvg-id="" tvg-name="M+ #VAMOS BAR1 " tvg-logo="" group-title="Movistar",M+ #VAMOS BAR1 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26268
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 HD" tvg-logo="" group-title="Movistar",DAZN F1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26626
+#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 FULL HD" tvg-logo="" group-title="Movistar",DAZN F1 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26627
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 HD" tvg-logo="" group-title="Movistar",DAZN 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24923
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 FULL HD" tvg-logo="" group-title="Movistar",DAZN 1 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26623
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="" group-title="Movistar",DAZN 1 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26621
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 HD" tvg-logo="" group-title="Movistar",DAZN 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/24922
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 FULL HD" tvg-logo="" group-title="Movistar",DAZN 2 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26624
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2 4K" tvg-logo="" group-title="Movistar",DAZN 2 4K
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26622
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="" group-title="Movistar",DAZN 3 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26628
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 FULL HD" tvg-logo="" group-title="Movistar",DAZN 3 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26630
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="" group-title="Movistar",DAZN 4 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26629
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 FULL HD" tvg-logo="" group-title="Movistar",DAZN 4 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26631
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 ESP" tvg-logo="" group-title="Movistar",DAZN 5 ESP
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26171
+#EXTINF:-1 tvg-id="" tvg-name="UFC HD" tvg-logo="" group-title="Movistar",UFC HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27172
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="EUROSPORT 1 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",EUROSPORT 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/352
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 FULL HD" tvg-logo="" group-title="Movistar",EUROSPORT 1 FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3794
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",EUROSPORT 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/414
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="M+ DEPORTESHD" tvg-logo="" group-title="Movistar",M+ DEPORTESHD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/359
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES FULL HD" tvg-logo="" group-title="Movistar",M+ DEPORTES FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3800
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES1HD (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES1HD (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/427
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES2 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES2 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/428
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES3 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES3 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/429
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES4 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES4 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/430
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES5 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES5 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/431
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES6 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES6 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/432
+#EXTINF:-1 tvg-id="" tvg-name="M+ DEPORTES7 (SOLO EVENTOS)" tvg-logo="" group-title="Movistar",M+ DEPORTES7 (SOLO EVENTOS)
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/433
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",MULTIDEPORTE
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/449
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="TELEDEPORTE HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",TELEDEPORTE HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/457
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE FULL HD" tvg-logo="" group-title="Movistar",TELEDEPORTE FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3857
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="BARCA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",BARCA TV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/384
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV FULL HD" tvg-logo="" group-title="Movistar",BARCA TV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3823
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="Realmadrid TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",Realmadrid TV HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/455
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV FULL HD" tvg-logo="" group-title="Movistar",Realmadrid TV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25867
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="M+ GOLF HD" tvg-logo="" group-title="Movistar",M+ GOLF HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/361
+#EXTINF:-1 tvg-id="" tvg-name="M+ GOLF FULL HD" tvg-logo="" group-title="Movistar",M+ GOLF FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3802
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL PLAY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",GOL PLAY
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/418
+#EXTINF:-1 tvg-id="" tvg-name="GOL PLAY FULL HD" tvg-logo="" group-title="Movistar",GOL PLAY FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3843
+#EXTINF:-1 tvg-id="" tvg-name="### Cultura ###" tvg-logo="" group-title="Movistar",### Cultura ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27152
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="CANAL ODISEA" tvg-logo="" group-title="Movistar",CANAL ODISEA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/399
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA FULL HD" tvg-logo="" group-title="Movistar",CANAL ODISEA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3829
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="NAT GEO HD" tvg-logo="" group-title="Movistar",NAT GEO HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/370
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO FULL HD" tvg-logo="" group-title="Movistar",NAT GEO FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3810
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="NG WILD HD" tvg-logo="" group-title="Movistar",NG WILD HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/371
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD FULL HD" tvg-logo="" group-title="Movistar",NG WILD FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3811
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",DISCOVERY
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/408
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY FULL HD" tvg-logo="" group-title="Movistar",DISCOVERY FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3836
+#EXTINF:-1 tvg-id="historia.es" tvg-name="HISTORIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",HISTORIA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/419
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA FULL HD" tvg-logo="" group-title="Movistar",HISTORIA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3844
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="CANAL DECASA" tvg-logo="" group-title="Movistar",CANAL DECASA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/398
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA FULL HD" tvg-logo="" group-title="Movistar",CANAL DECASA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3828
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="CAZAyPESCA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CAZAyPESCA HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/402
+#EXTINF:-1 tvg-id="" tvg-name="CAZAyPESCA FULL HD" tvg-logo="" group-title="Movistar",CAZAyPESCA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3831
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="IBERALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",IBERALIA TV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/420
+#EXTINF:-1 tvg-id="" tvg-name="IBERALIA TV FULL HD" tvg-logo="" group-title="Movistar",IBERALIA TV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3845
+#EXTINF:-1 tvg-id="" tvg-name="### Ninos ###" tvg-logo="" group-title="Movistar",### Ninos ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27153
+#EXTINF:-1 tvg-id="mdisney.es" tvg-name="DISNEY CH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",DISNEY CH HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/434
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CH FULL HD" tvg-logo="" group-title="Movistar",DISNEY CH FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3837
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",DISNEY JR
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/410
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR FULL HD" tvg-logo="" group-title="Movistar",DISNEY JR FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3838
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN  TVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CLAN  TVE
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/403
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE FULL HD" tvg-logo="" group-title="Movistar",CLAN TVE FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3832
+#EXTINF:-1 tvg-id="boing.es" tvg-name="BOING" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",BOING
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/396
+#EXTINF:-1 tvg-id="" tvg-name="BOING FULL HD" tvg-logo="" group-title="Movistar",BOING FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3826
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEONHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",NICKELODEONHD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/452
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON FULL HD" tvg-logo="" group-title="Movistar",NICKELODEON FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3853
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="NICK JR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",NICK JR
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/451
+#EXTINF:-1 tvg-id="" tvg-name="NICK JR FULL HD" tvg-logo="" group-title="Movistar",NICK JR FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3852
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="CANAL PANDA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",CANAL PANDA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/401
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA FULL HD" tvg-logo="" group-title="Movistar",CANAL PANDA FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3830
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="BABY TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",BABY TV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/383
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV FULL HD" tvg-logo="" group-title="Movistar",BABY TV FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/3822
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD" tvg-logo="" group-title="Movistar",DreamWorks HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26625
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks FULL HD" tvg-logo="" group-title="Movistar",DreamWorks FULL HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27216
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",FOX NEWS
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/417
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS" tvg-logo="" group-title="Movistar",SOMOS
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26342
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="" group-title="Movistar",MEZZO LIVE HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/369
+#EXTINF:-1 tvg-id="" tvg-name="Classica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",Classica
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/404
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="MTV ESPANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ2bpmL9N8_l2QCgk6nuOerGZa0wULkhxBoCCDzPPjV0FGeGEZ" group-title="Movistar",MTV ESPANA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/447
+#EXTINF:-1 tvg-id="" tvg-name="VIDA RTV" tvg-logo="" group-title="Movistar",VIDA RTV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25856
+#EXTINF:-1 tvg-id="" tvg-name="### TDT ###" tvg-logo="" group-title="Movistar",### TDT ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27157
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO" tvg-logo="" group-title="Movistar",MUNDO
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27176
+#EXTINF:-1 tvg-id="" tvg-name="A3SERIES" tvg-logo="" group-title="Movistar",A3SERIES
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26343
+#EXTINF:-1 tvg-id="" tvg-name="TEN" tvg-logo="" group-title="Movistar",TEN
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25869
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT NETWORK" tvg-logo="" group-title="Movistar",PARAMOUNT NETWORK
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25871
+#EXTINF:-1 tvg-id="" tvg-name="DMAX" tvg-logo="" group-title="Movistar",DMAX
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25857
+#EXTINF:-1 tvg-id="" tvg-name="DKISS" tvg-logo="" group-title="Movistar",DKISS
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25866
+#EXTINF:-1 tvg-id="" tvg-name="CANAL MALAGA HD" tvg-logo="" group-title="Movistar",CANAL MALAGA HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25858
+#EXTINF:-1 tvg-id="" tvg-name="BeMad tv HD" tvg-logo="" group-title="Movistar",BeMad tv HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25870
+#EXTINF:-1 tvg-id="" tvg-name="atreseries HD" tvg-logo="" group-title="Movistar",atreseries HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25865
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="" group-title="Movistar",TRECE
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25853
+#EXTINF:-1 tvg-id="" tvg-name="PTV MALAGA" tvg-logo="" group-title="Movistar",PTV MALAGA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25852
+#EXTINF:-1 tvg-id="" tvg-name="mega" tvg-logo="" group-title="Movistar",mega
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25854
+#EXTINF:-1 tvg-id="" tvg-name="C. TORREVISION HD" tvg-logo="" group-title="Movistar",C. TORREVISION HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25849
+#EXTINF:-1 tvg-id="" tvg-name="BOM" tvg-logo="" group-title="Movistar",BOM
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25848
+#EXTINF:-1 tvg-id="" tvg-name="AndaluciaTV" tvg-logo="" group-title="Movistar",AndaluciaTV
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25847
+#EXTINF:-1 tvg-id="" tvg-name="7TV ANDALUCIA" tvg-logo="" group-title="Movistar",7TV ANDALUCIA
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/25846
+#EXTINF:-1 tvg-id="" tvg-name="### VIP CINEMA ###" tvg-logo="" group-title="Movistar",### VIP CINEMA ###
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27158
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 1" tvg-logo="" group-title="Movistar",MOVISTAR+ MARVEL 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26325
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 2" tvg-logo="" group-title="Movistar",MOVISTAR+ MARVEL 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26326
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 3" tvg-logo="" group-title="Movistar",MOVISTAR+ MARVEL 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26327
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 4" tvg-logo="" group-title="Movistar",MOVISTAR+ MARVEL 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26328
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+ MARVEL 5" tvg-logo="" group-title="Movistar",MOVISTAR+ MARVEL 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26329
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 1" tvg-logo="" group-title="Movistar",Super Movie 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26330
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 2" tvg-logo="" group-title="Movistar",Super Movie 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26331
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 3" tvg-logo="" group-title="Movistar",Super Movie 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26332
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 4" tvg-logo="" group-title="Movistar",Super Movie 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26333
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 5" tvg-logo="" group-title="Movistar",Super Movie 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26334
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 6" tvg-logo="" group-title="Movistar",Super Movie 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26335
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 7" tvg-logo="" group-title="Movistar",Super Movie 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26336
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 8" tvg-logo="" group-title="Movistar",Super Movie 8
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26337
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 9" tvg-logo="" group-title="Movistar",Super Movie 9
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26338
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 10" tvg-logo="" group-title="Movistar",Super Movie 10
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26339
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 11" tvg-logo="" group-title="Movistar",Super Movie 11
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26513
+#EXTINF:-1 tvg-id="" tvg-name="Super Movie 12" tvg-logo="" group-title="Movistar",Super Movie 12
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26619
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 1" tvg-logo="" group-title="Movistar",Netflix 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26282
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 2" tvg-logo="" group-title="Movistar",Netflix 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26283
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 3" tvg-logo="" group-title="Movistar",Netflix 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26284
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 4" tvg-logo="" group-title="Movistar",Netflix 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26285
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 5" tvg-logo="" group-title="Movistar",Netflix 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26288
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 6" tvg-logo="" group-title="Movistar",Netflix 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26289
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 7" tvg-logo="" group-title="Movistar",Netflix 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26311
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 8" tvg-logo="" group-title="Movistar",Netflix 8
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26312
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 9" tvg-logo="" group-title="Movistar",Netflix 9
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26313
+#EXTINF:-1 tvg-id="" tvg-name="Netflix 10" tvg-logo="" group-title="Movistar",Netflix 10
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26314
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 1" tvg-logo="" group-title="Movistar",New Alquiler 4K 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26182
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 2" tvg-logo="" group-title="Movistar",New Alquiler 4K 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26183
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 3" tvg-logo="" group-title="Movistar",New Alquiler 4K 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26184
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 4" tvg-logo="" group-title="Movistar",New Alquiler 4K 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26185
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 5" tvg-logo="" group-title="Movistar",New Alquiler 4K 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26186
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4K 6" tvg-logo="" group-title="Movistar",New Alquiler 4K 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26187
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 1" tvg-logo="" group-title="Movistar",New Alquiler 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26143
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 2" tvg-logo="" group-title="Movistar",New Alquiler 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26144
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 3" tvg-logo="" group-title="Movistar",New Alquiler 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26145
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 4" tvg-logo="" group-title="Movistar",New Alquiler 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26146
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 5" tvg-logo="" group-title="Movistar",New Alquiler 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26147
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 6" tvg-logo="" group-title="Movistar",New Alquiler 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26148
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 7" tvg-logo="" group-title="Movistar",New Alquiler 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26149
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 8" tvg-logo="" group-title="Movistar",New Alquiler 8
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26173
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 9" tvg-logo="" group-title="Movistar",New Alquiler 9
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26174
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 10" tvg-logo="" group-title="Movistar",New Alquiler 10
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26201
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 11" tvg-logo="" group-title="Movistar",New Alquiler 11
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26202
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 12" tvg-logo="" group-title="Movistar",New Alquiler 12
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26203
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 13" tvg-logo="" group-title="Movistar",New Alquiler 13
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26204
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 14" tvg-logo="" group-title="Movistar",New Alquiler 14
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26213
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 15" tvg-logo="" group-title="Movistar",New Alquiler 15
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26219
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 16" tvg-logo="" group-title="Movistar",New Alquiler 16
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26220
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 17" tvg-logo="" group-title="Movistar",New Alquiler 17
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26221
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 18" tvg-logo="" group-title="Movistar",New Alquiler 18
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26223
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 19" tvg-logo="" group-title="Movistar",New Alquiler 19
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26224
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 20" tvg-logo="" group-title="Movistar",New Alquiler 20
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26225
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 21" tvg-logo="" group-title="Movistar",New Alquiler 21
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26226
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 22" tvg-logo="" group-title="Movistar",New Alquiler 22
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26227
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 23" tvg-logo="" group-title="Movistar",New Alquiler 23
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26228
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 24" tvg-logo="" group-title="Movistar",New Alquiler 24
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26229
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 25" tvg-logo="" group-title="Movistar",New Alquiler 25
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26231
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 26" tvg-logo="" group-title="Movistar",New Alquiler 26
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26232
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 27" tvg-logo="" group-title="Movistar",New Alquiler 27
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26233
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 28" tvg-logo="" group-title="Movistar",New Alquiler 28
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26234
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 29" tvg-logo="" group-title="Movistar",New Alquiler 29
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26235
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 30" tvg-logo="" group-title="Movistar",New Alquiler 30
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26236
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 31" tvg-logo="" group-title="Movistar",New Alquiler 31
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26240
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 32" tvg-logo="" group-title="Movistar",New Alquiler 32
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26241
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 33" tvg-logo="" group-title="Movistar",New Alquiler 33
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26242
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 34" tvg-logo="" group-title="Movistar",New Alquiler 34
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26244
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 35" tvg-logo="" group-title="Movistar",New Alquiler 35
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26245
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 36" tvg-logo="" group-title="Movistar",New Alquiler 36
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26243
+#EXTINF:-1 tvg-id="" tvg-name="New Alquiler 37" tvg-logo="" group-title="Movistar",New Alquiler 37
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26273
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 1" tvg-logo="" group-title="Movistar",movistar infantiles 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26205
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 2" tvg-logo="" group-title="Movistar",movistar infantiles 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26206
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 3" tvg-logo="" group-title="Movistar",movistar infantiles 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26207
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 4" tvg-logo="" group-title="Movistar",movistar infantiles 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26208
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 5" tvg-logo="" group-title="Movistar",movistar infantiles 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26209
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 6" tvg-logo="" group-title="Movistar",movistar infantiles 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26210
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 7" tvg-logo="" group-title="Movistar",movistar infantiles 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26211
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 8" tvg-logo="" group-title="Movistar",movistar infantiles 8
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26212
+#EXTINF:-1 tvg-id="" tvg-name="movistar infantiles 9" tvg-logo="" group-title="Movistar",movistar infantiles 9
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26620
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="" group-title="Movistar",Peliculas de Ciencia ficcion HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26134
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 2 " tvg-logo="" group-title="Movistar",Peliculas de Ciencia ficcion HD 2 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26135
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 3" tvg-logo="" group-title="Movistar",Peliculas de Ciencia ficcion HD 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26136
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 4" tvg-logo="" group-title="Movistar",Peliculas de Ciencia ficcion HD 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26137
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas de Ciencia ficcion HD 5" tvg-logo="" group-title="Movistar",Peliculas de Ciencia ficcion HD 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26138
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="Movistar",Peliculas Action HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26114
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="Movistar",Peliculas Action HD 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26115
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="Movistar",Peliculas Action HD 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26116
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="Movistar",Peliculas Action HD 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26117
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="Movistar",Peliculas Action HD 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26118
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 6" tvg-logo="" group-title="Movistar",Peliculas Action HD 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26119
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 1" tvg-logo="" group-title="Movistar",Box  Office 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26104
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 2" tvg-logo="" group-title="Movistar",Box  Office 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26105
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 3" tvg-logo="" group-title="Movistar",Box  Office 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26106
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 4" tvg-logo="" group-title="Movistar",Box  Office 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26107
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 5" tvg-logo="" group-title="Movistar",Box  Office 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26108
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 6" tvg-logo="" group-title="Movistar",Box  Office 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26109
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 7" tvg-logo="" group-title="Movistar",Box  Office 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26110
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 8" tvg-logo="" group-title="Movistar",Box  Office 8
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26111
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 9" tvg-logo="" group-title="Movistar",Box  Office 9
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26112
+#EXTINF:-1 tvg-id="" tvg-name="Box  Office 10" tvg-logo="" group-title="Movistar",Box  Office 10
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26113
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 1" tvg-logo="" group-title="Movistar",Alquiler HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26094
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 2" tvg-logo="" group-title="Movistar",Alquiler HD 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26095
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 3" tvg-logo="" group-title="Movistar",Alquiler HD 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26096
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 4" tvg-logo="" group-title="Movistar",Alquiler HD 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26097
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 5" tvg-logo="" group-title="Movistar",Alquiler HD 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26098
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 6" tvg-logo="" group-title="Movistar",Alquiler HD 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26099
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 7" tvg-logo="" group-title="Movistar",Alquiler HD 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26100
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 8" tvg-logo="" group-title="Movistar",Alquiler HD 8
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26101
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 9" tvg-logo="" group-title="Movistar",Alquiler HD 9
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26102
+#EXTINF:-1 tvg-id="" tvg-name="Alquiler HD 10" tvg-logo="" group-title="Movistar",Alquiler HD 10
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26103
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 1" tvg-logo="" group-title="Movistar",Peliculas Action HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26120
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 2" tvg-logo="" group-title="Movistar",Peliculas Action HD 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26121
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 3" tvg-logo="" group-title="Movistar",Peliculas Action HD 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26122
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 4" tvg-logo="" group-title="Movistar",Peliculas Action HD 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26123
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Action HD 5" tvg-logo="" group-title="Movistar",Peliculas Action HD 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26124
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE 1 HD" tvg-logo="" group-title="Movistar",MOVISTAR CINE 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26088
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 2 HD" tvg-logo="" group-title="Movistar",MOVISTAR  CINE 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26089
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 3 HD" tvg-logo="" group-title="Movistar",MOVISTAR  CINE 3 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26090
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 4 HD" tvg-logo="" group-title="Movistar",MOVISTAR  CINE 4 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26091
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 5 HD" tvg-logo="" group-title="Movistar",MOVISTAR  CINE 5 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26092
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR  CINE 6 HD" tvg-logo="" group-title="Movistar",MOVISTAR  CINE 6 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26093
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 1" tvg-logo="" group-title="Movistar",Peliculas Comedia HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26125
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 2" tvg-logo="" group-title="Movistar",Peliculas Comedia HD 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26126
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 3" tvg-logo="" group-title="Movistar",Peliculas Comedia HD 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26128
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Comedia HD 4" tvg-logo="" group-title="Movistar",Peliculas Comedia HD 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26127
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 1" tvg-logo="" group-title="Movistar",Cinelatino HD 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26167
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 2" tvg-logo="" group-title="Movistar",Cinelatino HD 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26168
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 3" tvg-logo="" group-title="Movistar",Cinelatino HD 3
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26169
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 4" tvg-logo="" group-title="Movistar",Cinelatino HD 4
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26170
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 5" tvg-logo="" group-title="Movistar",Cinelatino HD 5
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26216
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 6" tvg-logo="" group-title="Movistar",Cinelatino HD 6
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26217
+#EXTINF:-1 tvg-id="" tvg-name="Cinelatino HD 7" tvg-logo="" group-title="Movistar",Cinelatino HD 7
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26218
+#EXTINF:-1 tvg-id="" tvg-name="Trailer 2020" tvg-logo="" group-title="Movistar",Trailer 2020
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26239
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ana" tvg-logo="" group-title="Movistar",24/7 Ana
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26595
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Alerta Aeropuerto" tvg-logo="" group-title="Movistar",24/7 Alerta Aeropuerto
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26596
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Altered Carbon" tvg-logo="" group-title="Movistar",24/7 Altered Carbon
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26597
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Big Bang" tvg-logo="" group-title="Movistar",24/7 Big Bang
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26599
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Juego de tronos" tvg-logo="https://freakland.es/7013/poster-juego-de-tronos-jon-for-the-throne.jpg" group-title="Movistar",24/7 Juego de tronos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26404
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jessica Jones" tvg-logo="https://fr.web.img4.acsta.net/pictures/19/06/18/12/07/2217403.jpg" group-title="Movistar",24/7 Jessica Jones
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26405
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Narcos" tvg-logo="https://fr.web.img6.acsta.net/pictures/15/07/29/14/33/086520.jpg" group-title="Movistar",24/7 Narcos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26406
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Absentia" tvg-logo="https://fr.web.img2.acsta.net/pictures/19/04/30/14/53/5790436.jpg" group-title="Movistar",24/7 Absentia
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Beowulf Return to the Shieldlands" tvg-logo="https://media.senscritique.com/media/000012273283/source_big/Beowulf_Return_to_the_Shieldlands.jpg" group-title="Movistar",24/7 Beowulf Return to the Shieldlands
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Black Sails" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81TvTiBOfVL._AC_SL1500_.jpg" group-title="Movistar",24/7 Black Sails
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26348
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bolivar" tvg-logo="https://pics.filmaffinity.com/Bolivar_the_Man_the_Legend_TV_Series-862404934-large.jpg" group-title="Movistar",24/7 Bolivar
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de papel" tvg-logo="https://carnetparisien.files.wordpress.com/2018/04/la_casa_de_papel1.jpg" group-title="Movistar",24/7 La casa de papel
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26356
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hawaii 5-0" tvg-logo="https://fr.web.img5.acsta.net/pictures/18/11/23/11/34/5643417.jpg" group-title="Movistar",24/7 Hawaii 5-0
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26357
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Wu Assassins" tvg-logo="https://i0.wp.com/deluxevideoonline.org/wp-content/uploads/2019/08/wu-poster.jpg?fit=426%2C597&ssl=1" group-title="Movistar",24/7 Wu Assassins
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26361
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Criminologia Naval" tvg-logo="https://fr.web.img3.acsta.net/pictures/19/06/18/12/13/0214170.jpg" group-title="Movistar",24/7 NCIS Criminologia Naval
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26358
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="https://fr.web.img2.acsta.net/pictures/18/11/06/17/57/4896042.jpg" group-title="Movistar",24/7 NCIS Los Angeles
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26359
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vikingos " tvg-logo="https://i.pinimg.com/originals/a7/1b/43/a71b435ed70faae9f4d97cb2d5d58112.jpg" group-title="Movistar",24/7 Vikingos 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26360
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bones" tvg-logo="https://fr.web.img3.acsta.net/pictures/14/02/17/11/13/171605.jpg" group-title="Movistar",24/7 Bones
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26350
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Breaking Bad" tvg-logo="https://fr.web.img5.acsta.net/pictures/19/06/18/12/11/3956503.jpg" group-title="Movistar",24/7 Breaking Bad
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26351
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Castle" tvg-logo="https://photos.tf1.fr/700/933/vignette-portrait-castle-2-fb378f-7a7331-0@1x.webp" group-title="Movistar",24/7 Castle
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26352
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chernobyl" tvg-logo="https://fr.web.img6.acsta.net/pictures/19/04/29/08/21/1692162.jpg?coixp=45&coiyp=73" group-title="Movistar",24/7 Chernobyl
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26353
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cosmos" tvg-logo="https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/1/ad/1ad68fb6-0195-11ea-8f66-03c14b2081e5/5dc470ea07126.image.jpg?resize=1200%2C675" group-title="Movistar",24/7 Cosmos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26354
+#EXTINF:-1 tvg-id="" tvg-name="24/7 CSI_Miami" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91AH1MBA4IL._SL1500_.jpg" group-title="Movistar",24/7 CSI_Miami
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26355
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Masha y el Oso" tvg-logo="" group-title="Movistar",24/7 Masha y el Oso
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26309
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Bombero Sam" tvg-logo="" group-title="Movistar",24/7 El Bombero Sam
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26310
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Patrulla Canina 1" tvg-logo="" group-title="Movistar",24/7 La Patrulla Canina 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26290
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Patrulla Canina 2" tvg-logo="" group-title="Movistar",24/7 La Patrulla Canina 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26291
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig 1" tvg-logo="" group-title="Movistar",24/7 Peppa Pig 1
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26292
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Peppa Pig 2" tvg-logo="" group-title="Movistar",24/7 Peppa Pig 2
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26293
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blood & Water" tvg-logo="" group-title="Movistar",24/7 Blood & Water
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26249
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Carta al rey" tvg-logo="" group-title="Movistar",24/7 Carta al rey
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26250
+#EXTINF:-1 tvg-id="" tvg-name="24/7 DARK" tvg-logo="" group-title="Movistar",24/7 DARK
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26251
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Desaparecidos" tvg-logo="" group-title="Movistar",24/7 Desaparecidos
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26252
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Ultimo baile" tvg-logo="" group-title="Movistar",24/7 El Ultimo baile
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26253
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The First" tvg-logo="" group-title="Movistar",24/7 The First
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26286
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Five" tvg-logo="" group-title="Movistar",24/7 The Five
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26287
+#EXTINF:-1 tvg-id="" tvg-name="24/7 FBI" tvg-logo="" group-title="Movistar",24/7 FBI
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26277
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Rogue" tvg-logo="" group-title="Movistar",24/7 Rogue
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26278
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Station 19" tvg-logo="" group-title="Movistar",24/7 Station 19
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26279
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Blindspot" tvg-logo="" group-title="Movistar",24/7 Blindspot
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26274
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Supergirl" tvg-logo="" group-title="Movistar",24/7 Supergirl
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26280
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Fernando" tvg-logo="" group-title="Movistar",24/7 Fernando
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26254
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jugando con fuego" tvg-logo="" group-title="Movistar",24/7 Jugando con fuego
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26256
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Lenox Hill" tvg-logo="" group-title="Movistar",24/7 Lenox Hill
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26257
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cobra Kai" tvg-logo="" group-title="Movistar",24/7 Cobra Kai
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26262
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Jack Ryan" tvg-logo="" group-title="Movistar",24/7 Jack Ryan
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26263
+#EXTINF:-1 tvg-id="" tvg-name="24/7 MacGyver " tvg-logo="" group-title="Movistar",24/7 MacGyver 
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26264
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Raised By Wolves" tvg-logo="" group-title="Movistar",24/7 Raised By Wolves
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26265
+#EXTINF:-1 tvg-id="" tvg-name="24/7 XIII The Series" tvg-logo="" group-title="Movistar",24/7 XIII The Series
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26266
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Locke and  Key" tvg-logo="" group-title="Movistar",24/7 Locke and  Key
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26258
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Maldita" tvg-logo="" group-title="Movistar",24/7 Maldita
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26259
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Seal Team" tvg-logo="" group-title="Movistar",24/7 Seal Team
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26260
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Snowpiercer  Rompenieves" tvg-logo="" group-title="Movistar",24/7 Snowpiercer  Rompenieves
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26261
+#EXTINF:-1 tvg-id="" tvg-name="24/7 ICE" tvg-logo="" group-title="Movistar",24/7 ICE
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26255
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chicago Fire" tvg-logo="https://fr.web.img6.acsta.net/pictures/17/10/25/12/28/0781459.jpg" group-title="Movistar",24/7 Chicago Fire
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26230
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pandemia: como prevenir un brote" tvg-logo="" group-title="Movistar",24/7 Pandemia: como prevenir un brote
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26222
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hunters" tvg-logo="" group-title="Movistar",24/7 Hunters
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26196
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Navy Investigacion Criminal" tvg-logo="" group-title="Movistar",24/7 Navy Investigacion Criminal
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26197
+#EXTINF:-1 tvg-id="" tvg-name="24/7 NCIS Los Angeles" tvg-logo="" group-title="Movistar",24/7 NCIS Los Angeles
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26198
+#EXTINF:-1 tvg-id="" tvg-name="24/7 SWAT" tvg-logo="" group-title="Movistar",24/7 SWAT
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26199
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="Movistar",24/7 The Mandalorian
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26166
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Messiah" tvg-logo="" group-title="Movistar",24/7 Messiah
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26161
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Dexter" tvg-logo="" group-title="Movistar",24/7 Dexter
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26613
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Robot" tvg-logo="" group-title="Movistar",24/7 Mr Robot
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26614
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Witcher" tvg-logo="" group-title="Movistar",24/7 The Witcher
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26162
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Arrow" tvg-logo="" group-title="Movistar",24/7 Arrow
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26607
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Batwoman" tvg-logo="" group-title="Movistar",24/7 Batwoman
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26608
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Bodyguard" tvg-logo="" group-title="Movistar",24/7 Bodyguard
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26609
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Ballers" tvg-logo="" group-title="Movistar",24/7 Ballers
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26610
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Atípico" tvg-logo="" group-title="Movistar",24/7 Atípico
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26600
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Good Doctor" tvg-logo="" group-title="Movistar",24/7 Good Doctor
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26601
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Soprano" tvg-logo="" group-title="Movistar",24/7 Los Soprano
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26602
+#EXTINF:-1 tvg-id="" tvg-name="24/7 See" tvg-logo="" group-title="Movistar",24/7 See
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26604
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Mandalorian" tvg-logo="" group-title="Movistar",24/7 The Mandalorian
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26605
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ 1 HD" tvg-logo="" group-title="Movistar",CINE+ 1 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26344
+#EXTINF:-1 tvg-id="" tvg-name="CINE+ 2 HD" tvg-logo="" group-title="Movistar",CINE+ 2 HD
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/26345
+#EXTINF:-1 tvg-id="" tvg-name="CRISTO" tvg-logo="" group-title="Movistar",CRISTO
+http://cms-sp.shurty.live:25461/smMf1DutvN/6125758821/27212
