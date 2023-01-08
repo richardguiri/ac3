@@ -1,1159 +1,295 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
-#EXTINF:-1 tvg-id="" tvg-name="========= SPAIN =========" tvg-logo="" group-title="SPAIN",========= SPAIN =========
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49482.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="SPAIN",ES: LA 1 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49483.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA 2 HD" tvg-logo="" group-title="SPAIN",ES: LA 2 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49484.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANTENA 3 HD" tvg-logo="" group-title="SPAIN",ES: ANTENA 3 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49485.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CUATRO" tvg-logo="" group-title="SPAIN",ES: CUATRO
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49486.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELECINCO HD" tvg-logo="" group-title="SPAIN",ES: TELECINCO HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49487.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN HD" tvg-logo="" group-title="SPAIN",ES: AXN HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49488.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CALLE 13 HD" tvg-logo="" group-title="SPAIN",ES: CALLE 13 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49489.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL SUR" tvg-logo="" group-title="SPAIN",ES: CANAL SUR
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49490.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CLAN TVE HD" tvg-logo="" group-title="SPAIN",ES: CLAN TVE HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49491.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DIVINITY" tvg-logo="" group-title="SPAIN",ES: DIVINITY
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49492.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: HOLLYWOOD HD" tvg-logo="" group-title="SPAIN",ES: HOLLYWOOD HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49493.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LA SEXTA" tvg-logo="" group-title="SPAIN",ES: LA SEXTA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49494.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR ESTRENOS HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49495.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: SYFY HD" tvg-logo="" group-title="SPAIN",ES: SYFY HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49496.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TCM" tvg-logo="" group-title="SPAIN",ES: TCM
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49497.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEDEPORTE HD" tvg-logo="" group-title="SPAIN",ES: TELEDEPORTE HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49498.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TNT" tvg-logo="" group-title="SPAIN",ES: TNT
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49499.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NOVA" tvg-logo="" group-title="SPAIN",ES: NOVA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49500.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ODISEA" tvg-logo="" group-title="SPAIN",ES: CANAL ODISEA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49501.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="" group-title="SPAIN",ES: CAZA Y PESCA HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49502.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="" group-title="SPAIN",ES: COMEDY CENTRAL HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49503.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: COSMO HD" tvg-logo="" group-title="SPAIN",ES: COSMO HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49504.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: FOX HD" tvg-logo="" group-title="SPAIN",ES: FOX HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49505.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR SERIES HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49506.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS HD" tvg-logo="" group-title="SPAIN",ES: 24 HORAS HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49507.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: A3SERIES HD" tvg-logo="" group-title="SPAIN",ES: A3SERIES HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49508.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AMC HD" tvg-logo="" group-title="SPAIN",ES: AMC HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49509.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ANDALUCIA TV HD" tvg-logo="" group-title="SPAIN",ES: ANDALUCIA TV HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49510.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ARAGON TV HD" tvg-logo="" group-title="SPAIN",ES: ARAGON TV HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49511.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: AXN WHITE HD" tvg-logo="" group-title="SPAIN",ES: AXN WHITE HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49512.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: BOING HD" tvg-logo="" group-title="SPAIN",ES: BOING HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49513.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TV GALICIA HD" tvg-logo="" group-title="SPAIN",ES: TV GALICIA HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49514.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: BE MAD" tvg-logo="" group-title="SPAIN",ES: BE MAD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49515.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: BLAZE" tvg-logo="" group-title="SPAIN",ES: BLAZE
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49516.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: CANAL ORBE 21 HD" tvg-logo="" group-title="SPAIN",ES: CANAL ORBE 21 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49517.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: COCINA" tvg-logo="" group-title="SPAIN",ES: COCINA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49518.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA" tvg-logo="" group-title="SPAIN",ES: DECASA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49519.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DMAX" tvg-logo="" group-title="SPAIN",ES: DMAX
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49520.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: ENERGY" tvg-logo="" group-title="SPAIN",ES: ENERGY
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49521.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: FDF" tvg-logo="" group-title="SPAIN",ES: FDF
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49522.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: IBERALIA" tvg-logo="" group-title="SPAIN",ES: IBERALIA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49523.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: INTERECONOMIA" tvg-logo="" group-title="SPAIN",ES: INTERECONOMIA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49524.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: SUNDANCE TV" tvg-logo="" group-title="SPAIN",ES: SUNDANCE TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49525.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: PARAMOUNT CHANNEL" tvg-logo="" group-title="SPAIN",ES: PARAMOUNT CHANNEL
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49526.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEGA" tvg-logo="" group-title="SPAIN",ES: MEGA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49527.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR 0#" tvg-logo="" group-title="SPAIN",ES: MOVISTAR 0#
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49528.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR ACCION HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49529.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DEPORTES HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49530.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR COMEDIA HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49531.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DRAMA HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49532.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR SERIES 2 HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR SERIES 2 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49533.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR TOROS HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR TOROS HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49534.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR VAMOS HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR VAMOS HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49535.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIDEPORTE" tvg-logo="" group-title="SPAIN",ES: MULTIDEPORTE
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49536.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NEOX" tvg-logo="" group-title="SPAIN",ES: NEOX
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49537.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: PANDA" tvg-logo="" group-title="SPAIN",ES: PANDA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49538.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: SOMOS" tvg-logo="" group-title="SPAIN",ES: SOMOS
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49539.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TELEMADRID HD" tvg-logo="" group-title="SPAIN",ES: TELEMADRID HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49540.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: TEN" tvg-logo="" group-title="SPAIN",ES: TEN
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49541.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: BABY TV" tvg-logo="" group-title="SPAIN",ES: BABY TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49542.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="" group-title="SPAIN",ES: DISNEY CHANNEL HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49543.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY CHANNEL" tvg-logo="" group-title="SPAIN",ES: DISNEY CHANNEL
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49544.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY JUNIOR" tvg-logo="" group-title="SPAIN",ES: DISNEY JUNIOR
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49545.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISNEY XD" tvg-logo="" group-title="SPAIN",ES: DISNEY XD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49546.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICK JR" tvg-logo="" group-title="SPAIN",ES: NICK JR
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49547.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NICKLEDEON HD" tvg-logo="" group-title="SPAIN",ES: NICKLEDEON HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49548.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MEZZO LIVE HD" tvg-logo="" group-title="SPAIN",ES: MEZZO LIVE HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49549.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: HIT TV" tvg-logo="" group-title="SPAIN",ES: HIT TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49550.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL HD" tvg-logo="" group-title="SPAIN",ES: DISCOVERY CHANNEL HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49551.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="" group-title="SPAIN",ES: DISCOVERY CHANNEL FHD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49552.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA FHD" tvg-logo="" group-title="SPAIN",ES: HISTORIA FHD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49553.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: HISTORIA" tvg-logo="" group-title="SPAIN",ES: HISTORIA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49554.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEOGRAPHIC HD" tvg-logo="" group-title="SPAIN",ES: NAT GEOGRAPHIC HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49555.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: NAT GEO WILD HD" tvg-logo="" group-title="SPAIN",ES: NAT GEO WILD HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49556.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: BARCA TV HD" tvg-logo="" group-title="SPAIN",ES: BARCA TV HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49557.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: REAL MADRID TV HD" tvg-logo="" group-title="SPAIN",ES: REAL MADRID TV HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49558.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: DAZN FHD" tvg-logo="" group-title="SPAIN",ES: DAZN FHD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49559.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT" tvg-logo="" group-title="SPAIN",ES: EUROSPORT
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49560.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="" group-title="SPAIN",ES: EUROSPORT 1 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49561.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="SPAIN",ES: EUROSPORT 2
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49562.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2" tvg-logo="" group-title="SPAIN",ES: EUROSPORT 2
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49563.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA HD" tvg-logo="" group-title="SPAIN",ES: LALIGA HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49564.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LALIGA 2 HD" tvg-logo="" group-title="SPAIN",ES: LALIGA 2 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49565.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="" group-title="SPAIN",ES: LIGA DE CAMPEONES HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49566.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV" tvg-logo="" group-title="SPAIN",ES: GOL TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49567.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FORMULA 1 HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR FORMULA 1 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49568.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR MOTO GP HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR MOTO GP HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49569.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DCINE HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR DCINE HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49570.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR GOLF HD" tvg-logo="" group-title="SPAIN",ES: MOVISTAR GOLF HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49571.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 HD" tvg-logo="" group-title="SPAIN",ES: LIGA DE CAMPEONES 1 HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49572.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA TV HD" tvg-logo="" group-title="SPAIN",ES: LIGA TV HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49573.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: M. DEPORTES 1" tvg-logo="" group-title="SPAIN",ES: M. DEPORTES 1
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49574.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: MULTIFUTBOL 8" tvg-logo="" group-title="SPAIN",ES: MULTIFUTBOL 8
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49575.ts
-#EXTINF:-1 tvg-id="" tvg-name="ES: EXTREMADURA TV" tvg-logo="" group-title="SPAIN",ES: EXTREMADURA TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49576.ts
-#EXTINF:-1 tvg-id="" tvg-name="18+23 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+23 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67814.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+22 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+22 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67815.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+21 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+21 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67816.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+20 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+20 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67817.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+19 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+19 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67818.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+18 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+18 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67819.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+17 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+17 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67820.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+16 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+16 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67821.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+15 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+15 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67822.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+14 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+14 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67823.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+13 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+13 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67824.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+12 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+12 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67825.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+11 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+11 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67826.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+10 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+10 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67827.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+9 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+9 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67828.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+8 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+8 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67829.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+7 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+7 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67830.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+6 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+6 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67831.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+5 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+5 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67832.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+4 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+4 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67833.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+3 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+3 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67834.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+2 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+2 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67835.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+1 (2019)" tvg-logo="http://1881.nemutluturkumdiyene.info:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="Adult Gizli Kamera +18",18+1 (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/67836.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47127.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47128.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47129.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47130.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47131.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47132.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47133.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47134.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47135.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47136.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47137.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47138.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47139.mkv
-#EXTINF:-1 tvg-id="" tvg-name="18+ (2019)" tvg-logo="http://178.63.85.249:8080/images/ec763c06c946c6446c894ce084b71973.jpg" group-title="YENI ADULT 18 ",18+ (2019)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47140.mkv
-#EXTINF:-1 tvg-id="" tvg-name="300 Spartalı (2007)" tvg-logo="http://178.63.85.249:8080/images/2f4b5538c5fe1ba7f4c9295fec97c33c.jpg" group-title="Savas Filmleri",300 Spartalı (2007)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47736.mkv
-#EXTINF:-1 tvg-id="" tvg-name="300: Bir İmparatorluğun Yükselişi (2014)" tvg-logo="http://178.63.85.249:8080/images/0b1082d37085f01a7684c858451d49d4.jpg" group-title="Savas Filmleri",300: Bir İmparatorluğun Yükselişi (2014)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47737.mkv
-#EXTINF:-1 tvg-id="" tvg-name="5 Savas Gunu" tvg-logo="http://178.63.85.249:8080/images/0b1082d37085f01a7684c858451d49d4.jpg" group-title="Savas Filmleri",5 Savas Gunu
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47735.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte (1998)" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte (1998)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47342.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte (1998)" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte (1998)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47343.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte (1998)" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte (1998)
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47344.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Ask Yuzunden Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Ask Yuzunden Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47459.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Gia Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Gia Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47460.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Guzelligin Hanedanligi Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Guzelligin Hanedanligi Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47461.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Mavi En Sicak Renktir Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Mavi En Sicak Renktir Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47462.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Monamour Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Monamour Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47463.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Nymphomaniac Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Nymphomaniac Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47465.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Nymphomaniac-vol-i-erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Nymphomaniac-vol-i-erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47464.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: One Night Stand Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: One Night Stand Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47466.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Paprika Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Paprika Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47467.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Tulpa Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Tulpa Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47468.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Erotik: Yasak Ask Erotik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Erotik: Yasak Ask Erotik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47469.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 03" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 03
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47470.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 08" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 08
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47471.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 09" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 09
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47472.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 10" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 10
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47473.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47474.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 18" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 18
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47475.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 20" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 20
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47476.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 21" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 21
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47477.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 24" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 24
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47478.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 26" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 26
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47479.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 27" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 27
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47480.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce 29" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce 29
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47481.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 02" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 02
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47482.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 06" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 06
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47483.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 07" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 07
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47484.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 08" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 08
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47485.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47486.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 17" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 17
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47487.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 18" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 18
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47488.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 20" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 20
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47489.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 21" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 21
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47490.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 25" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 25
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47491.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 31" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 31
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47492.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 34" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 34
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47493.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Turkce: Turkce Altyazili 35" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Turkce: Turkce Altyazili 35
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47494.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Benimle Dalga Gecme  Zerrin Egelilerden Intikam Seksi" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Benimle Dalga Gecme  Zerrin Egelilerden Intikam Seksi
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47504.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Beyoglu Pilicleri  Karaca Kaan Ve Hadi Caman In Sevisme Sahneleri" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Beyoglu Pilicleri  Karaca Kaan Ve Hadi Caman In Sevisme Sahneleri
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47505.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Carlinin Kelekleri Bikinili Seksi Ajan Zerrin Egeliler" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Carlinin Kelekleri Bikinili Seksi Ajan Zerrin Egeliler
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47506.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Cildirtan Kadin Zerrin Egeliler Mahkumlarla Sevisiyor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Cildirtan Kadin Zerrin Egeliler Mahkumlarla Sevisiyor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47507.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Doktor Civanim  Gozluklu Cirkin Sekreter Arzu Okay" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Doktor Civanim  Gozluklu Cirkin Sekreter Arzu Okay
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47508.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Dun Den Bugune Seks 1975" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Dun Den Bugune Seks 1975
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47509.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Eden Bulur  Necla Fide Ve Karaca Kaan Ayni Erkekle Sevisiyor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Eden Bulur  Necla Fide Ve Karaca Kaan Ayni Erkekle Sevisiyor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47510.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Elmanin Alina Bak  Mafyanin Sevgilisi Karaca Kaan" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Elmanin Alina Bak  Mafyanin Sevgilisi Karaca Kaan
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47511.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Erkek Kemeri  Arzu Okay Cirilciplak  Pencerede" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Erkek Kemeri  Arzu Okay Cirilciplak  Pencerede
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47512.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Gelinin Odu Patladi 1975" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Gelinin Odu Patladi 1975
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47513.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Gonul Oyunu  Ormandaki Ciplak Kadin Zerrin Egeliler" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Gonul Oyunu  Ormandaki Ciplak Kadin Zerrin Egeliler
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47514.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Intikam Kadini - Samanlikta Tecavuze Ugrayan Zerrin Doganin Intikami" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Intikam Kadini - Samanlikta Tecavuze Ugrayan Zerrin Doganin Intikami
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47516.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Kahpe 1979" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Kahpe 1979
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47517.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Oldu Olacak  Ilgisizlikten Yakinan Kadin Zafir Seba" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Oldu Olacak  Ilgisizlikten Yakinan Kadin Zafir Seba
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47521.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Olumune Sevisenler" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Olumune Sevisenler
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47522.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Oyle Bir Kadin Ki  Zerrin Dogan Dan Yazlik Otelde Gunluk  Seks" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Oyle Bir Kadin Ki  Zerrin Dogan Dan Yazlik Otelde Gunluk  Seks
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47524.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Sari Cizmeli  Figen Han Kapici Kazim Kartalla Kiristiriyor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Sari Cizmeli  Figen Han Kapici Kazim Kartalla Kiristiriyor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47525.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Seytanin Gunahi  Mirasci Guzel Zerrin Egeliler" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Seytanin Gunahi  Mirasci Guzel Zerrin Egeliler
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47526.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Seytanin Kadini  Dilber Ay Atesli Kiz Rolunde" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Seytanin Kadini  Dilber Ay Atesli Kiz Rolunde
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47527.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Sira Sende Yosma  Aynur Akarsu Katilden Kaciyor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Sira Sende Yosma  Aynur Akarsu Katilden Kaciyor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47528.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Solan Yaprak  Zerrin Egeliler Samanlikta Sevisiyor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Solan Yaprak  Zerrin Egeliler Samanlikta Sevisiyor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47529.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam:  Son Soz   Figen Han" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam:  Son Soz   Figen Han
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47530.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Ahlaksiz  Utanc - Zerrin Egeliler Ile Soforun Yasak Aski" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Ahlaksiz  Utanc - Zerrin Egeliler Ile Soforun Yasak Aski
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47495.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Aklin Neredeydi  Sarisin Is Kadini Figen Han" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Aklin Neredeydi  Sarisin Is Kadini Figen Han
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47496.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Alemin Keyfi Yerinde  Mini Etekli Seksi Hizmetci Arzu Okay" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Alemin Keyfi Yerinde  Mini Etekli Seksi Hizmetci Arzu Okay
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47497.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Ali Babanin Ciftligi  Zengin Koca Avcisi Zerrin Egeliler" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Ali Babanin Ciftligi  Zengin Koca Avcisi Zerrin Egeliler
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47498.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Alman Gelin  Luks Yatta Seks Partileri" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Alman Gelin  Luks Yatta Seks Partileri
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47499.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Alo Polis Tele Kizlar  Eroin Kacakcisi Ciplak Kadinlar" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Alo Polis Tele Kizlar  Eroin Kacakcisi Ciplak Kadinlar
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47500.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Anasina Bak Kizini Al  Papazi Gunaha Sokan Kadin Dilber Ay" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Anasina Bak Kizini Al  Papazi Gunaha Sokan Kadin Dilber Ay
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47501.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Ask Korfezi  Figen Han Sevisme Sahneleri" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Ask Korfezi  Figen Han Sevisme Sahneleri
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47502.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Aslan Gibi Maasalah 1975" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Aslan Gibi Maasalah 1975
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47503.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Hizlim Benim  Emel Aydan Genc Ogrenciyi Etkiliyor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Hizlim Benim  Emel Aydan Genc Ogrenciyi Etkiliyor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47515.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Kazanova" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Kazanova
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47518.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Kucaktan Kucaga - Zerrin Egeliler 1966" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Kucaktan Kucaga - Zerrin Egeliler 1966
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47519.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Memnu Meyva Seks Canavarini Yakalatan Kadin Zerrin Egeliler" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Memnu Meyva Seks Canavarini Yakalatan Kadin Zerrin Egeliler
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47520.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: On Iki Cilgin Kiz - Seks Duskunu Ajan Kizlar" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: On Iki Cilgin Kiz - Seks Duskunu Ajan Kizlar
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47523.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte Yesilcam: Ye Beni Abuzer - Kis Bakari 1978" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte Yesilcam: Ye Beni Abuzer - Kis Bakari 1978
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47531.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 001 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 001 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47141.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 004 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 004 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47142.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 006 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 006 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47143.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 008 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 008 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47144.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 011 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 011 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47145.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 013 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 013 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47146.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 016 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 016 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47147.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 017 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 017 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47148.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 018 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 018 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47149.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 019 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 019 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47150.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 023 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 023 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47151.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 028 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 028 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47152.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 029 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 029 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47153.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 030 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 030 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47154.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 031 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 031 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47155.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 035 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 035 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47156.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 037 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 037 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47157.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 038 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 038 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47158.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 040 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 040 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47159.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 041 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 041 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47160.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 043 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 043 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47161.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 046 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 046 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47162.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 047 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 047 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47163.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 048 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 048 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47164.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 052 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 052 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47165.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 053 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 053 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47166.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 055 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 055 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47167.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 056 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 056 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47168.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 057 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 057 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47169.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 058 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 058 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47170.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 059 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 059 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47171.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 060 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 060 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47172.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 062 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 062 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47173.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 064 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 064 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47174.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 065 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 065 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47175.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 067 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 067 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47176.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 068 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 068 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47177.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 069 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 069 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47178.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 070 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 070 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47179.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 071 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 071 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47180.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 075 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 075 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47181.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 077 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 077 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47182.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 080 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 080 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47183.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 081 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 081 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47184.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 086 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 086 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47185.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 087 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 087 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47186.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 089 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 089 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47187.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 090 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 090 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47188.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 091 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 091 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47189.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 092 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 092 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47190.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 094 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 094 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47191.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 096 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 096 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47192.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 097 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 097 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47193.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 098 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 098 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47194.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 100 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 100 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47224.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 101 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 101 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47225.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 102 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 102 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47226.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 103 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 103 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47227.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 106 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 106 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47228.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 110 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 110 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47229.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 116 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 116 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47230.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 119 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 119 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47231.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 122 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 122 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47232.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 123 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 123 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47233.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 125 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 125 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47234.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 127 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 127 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47235.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 132 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 132 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47236.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 133 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 133 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47237.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 134 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 134 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47238.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 135 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 135 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47239.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 141 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 141 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47240.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 142 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 142 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47241.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 145 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 145 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47242.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 148 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 148 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47243.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 149 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 149 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47244.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 151 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 151 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47245.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 153 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 153 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47246.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 156 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 156 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47247.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 157 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 157 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47248.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 158 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 158 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47249.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 161 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 161 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47250.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 165 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 165 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47251.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 166 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 166 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47252.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 172 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 172 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47253.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 173 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 173 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47254.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 174 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 174 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47255.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 175 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 175 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47256.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 177 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 177 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47257.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 178 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 178 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47258.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 18 Year girl" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 18 Year girl
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47195.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 181 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 181 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47259.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 182 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 182 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47260.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 183 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 183 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47261.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 184 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 184 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47262.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 185 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 185 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47263.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 187 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 187 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47264.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: 196 720i 60fps" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: 196 720i 60fps
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47265.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Adriana Chechik" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Adriana Chechik
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47266.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Alex Grey" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Alex Grey
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47281.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Alexis Fawx" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Alexis Fawx
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47282.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Alicia Star" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Alicia Star
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47283.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Amirah Adara - 4 On 1 Gang Bangs" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Amirah Adara - 4 On 1 Gang Bangs
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47308.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Animation" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Animation
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47309.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Anna Bell Peaks" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Anna Bell Peaks
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47310.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: April Aniston" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: April Aniston
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47311.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Ariana Marie" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Ariana Marie
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47312.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Ariana Marie 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Ariana Marie 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47313.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Autumn Falls" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Autumn Falls
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47314.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Ava Devine" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Ava Devine
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47315.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Bang! Real Milfs - Jasmine Jae" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Bang! Real Milfs - Jasmine Jae
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47316.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Billie Star" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Billie Star
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47317.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Busty Blonde Astrid Gaping Anal Fuck" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Busty Blonde Astrid Gaping Anal Fuck
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47340.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Canela Skin Craves Anal and Squirting" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Canela Skin Craves Anal and Squirting
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47341.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Emily Willis" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Emily Willis
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47345.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Emily Willis 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Emily Willis 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47346.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Epic Compilation 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Epic Compilation 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47347.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 11" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 11
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47380.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 12" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 12
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47381.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47382.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 15" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 15
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47383.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 16" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 16
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47384.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 17" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 17
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47385.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 19" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 19
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47386.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47377.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 21" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 21
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47387.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 23" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 23
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47388.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 25" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 25
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47389.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 27" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 27
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47390.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 31" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 31
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47391.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 32" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 32
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47392.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 33" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 33
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47393.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 34" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 34
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47394.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 35" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 35
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47395.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 38" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 38
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47396.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 40" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 40
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47397.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 43" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 43
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47398.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 46" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 46
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47399.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 48" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 48
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47400.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 5" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 5
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47378.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 51" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 51
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47401.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 57" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 57
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47402.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 58" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 58
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47403.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 59" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 59
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47404.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 60" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 60
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47405.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 64" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 64
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47406.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 65" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 65
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47407.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 66" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 66
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47408.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: FULL HD PORN 8" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: FULL HD PORN 8
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47379.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: gang bang720" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: gang bang720
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47422.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: gangbang.teens.german" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: gangbang.teens.german
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47421.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Gianna Dior" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Gianna Dior
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47423.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: gush.melanie.rios.collection" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: gush.melanie.rios.collection
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47424.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Isabella Nice 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Isabella Nice 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47425.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Ivy Wolfe" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Ivy Wolfe
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47426.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Jaclyn Taylor" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Jaclyn Taylor
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47427.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Jessa Rhodes" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Jessa Rhodes
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47428.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Jessa Rhodes 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Jessa Rhodes 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47429.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Jillian Janson" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Jillian Janson
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47430.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Karmen Karma - Banging Her Brother-In-Law" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Karmen Karma - Banging Her Brother-In-Law
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47431.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: KISS EN KILL" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: KISS EN KILL
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47432.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Lisa Ann" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Lisa Ann
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47433.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Luna Star" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Luna Star
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47434.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Luna Star2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Luna Star2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47435.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Mariah Madysinn" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Mariah Madysinn
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47436.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Mia Malkova" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Mia Malkova
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47437.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Mia Malkova In Interracial Porn With A Hot Stallion" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Mia Malkova In Interracial Porn With A Hot Stallion
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47438.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: MilfsLikeItBig - Jasmine Jae - Horsing Around With The Stable Boy" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: MilfsLikeItBig - Jasmine Jae - Horsing Around With The Stable Boy
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47439.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: newsensations.18.12.31.kenna.james.4k" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: newsensations.18.12.31.kenna.james.4k
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47440.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Nicole Aniston" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Nicole Aniston
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47441.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Onmyouji Ayakashi no Megami EPISODE 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Onmyouji Ayakashi no Megami EPISODE 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47442.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Oppai no Ouja 48 EPISODE 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Oppai no Ouja 48 EPISODE 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47443.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Oyle Bir Kadin Ki 1979" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Oyle Bir Kadin Ki 1979
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47444.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Patty Michova" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Patty Michova
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47445.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Private - Linda Sweet - 5 BBC Gangbangs" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Private - Linda Sweet - 5 BBC Gangbangs
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47446.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Rebecca Sharon 5on1 mini gangbang with DAP" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Rebecca Sharon 5on1 mini gangbang with DAP
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47447.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Riley Star 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Riley Star 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47448.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Rose Valerie" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Rose Valerie
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47449.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: s02_Mark_Wood_Skylar_Snow" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: s02_Mark_Wood_Skylar_Snow
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47450.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: s04_Mark_Wood_Victoria_Steffanie" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: s04_Mark_Wood_Victoria_Steffanie
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47451.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: s04_Nacho_Vidal_Sofia_Star" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: s04_Nacho_Vidal_Sofia_Star
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47452.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: Sadie Sable" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: Sadie Sable
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47453.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: [BigWetButts] Luna Star - Low Ride Her" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: [BigWetButts] Luna Star - Low Ride Her
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47454.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: [LegalPorno] Kendra Star SZ775" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: [LegalPorno] Kendra Star SZ775
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47455.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: [RealityKings] Lela Star - Hot Decorator Milf" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: [RealityKings] Lela Star - Hot Decorator Milf
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47456.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: [RealityKings] Luna Star - Locked Out Hottie" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: [RealityKings] Luna Star - Locked Out Hottie
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47457.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte: [RealityKings] Riley Star - Miss" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte: [RealityKings] Riley Star - Miss
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47458.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 10" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 10
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47203.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 11" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 11
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47204.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 13" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 13
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47205.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 16" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 16
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47206.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 17" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 17
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47207.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 19" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 19
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47208.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47196.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 20" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 20
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47209.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 23" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 23
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47210.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 24" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 24
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47211.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 26" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 26
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47212.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 27" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 27
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47213.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 28" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 28
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47214.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 3" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 3
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47197.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 31" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 31
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47215.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 33" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 33
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47216.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 35" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 35
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47217.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 4" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 4
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47198.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 40" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 40
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47218.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 42" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 42
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47219.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 43" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 43
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47220.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 47" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 47
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47221.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 5" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 5
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47199.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 50" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 50
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47222.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 52" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 52
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47223.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 7" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 7
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47200.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 8" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 8
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:18OnlyGirls 9" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:18OnlyGirls 9
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47202.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Bigtitts 12" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Bigtitts 12
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47269.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Bigtitts 13" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Bigtitts 13
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47270.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Bigtitts 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Bigtitts 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47271.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Bigtitts 8" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Bigtitts 8
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47267.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Bigtitts 9" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Bigtitts 9
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47268.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47272.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 13" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 13
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47278.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 17" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 17
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47279.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 19" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 19
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47280.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 3" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 3
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47273.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 6" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 6
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47274.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 7" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 7
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47275.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 8" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 8
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47276.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Adult Teens 9" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Adult Teens 9
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47277.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 1 " tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 1 
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47284.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 13" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 13
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47289.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47290.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 15" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 15
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47291.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 16" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 16
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47292.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 19" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 19
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47293.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47285.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 20" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 20
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47294.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 21" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 21
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47295.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 24" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 24
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47296.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 27" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 27
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47297.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 28" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 28
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47298.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 32" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 32
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47299.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 38" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 38
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47300.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 39" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 39
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47301.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 4" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 4
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47286.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 40" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 40
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47302.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 43" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 43
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47303.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 45" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 45
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47304.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 46" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 46
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47305.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 48" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 48
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47306.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 50" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 50
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47307.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 7" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 7
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47287.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:ALT YAZILI FULL HD 8" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:ALT YAZILI FULL HD 8
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47288.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 10" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 10
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47322.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 11" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 11
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47323.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 13" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 13
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47324.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 18" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 18
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47325.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 19" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 19
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47326.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 2" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 2
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47318.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 22" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 22
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47327.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 25" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 25
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47328.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 26" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 26
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47329.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 28" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 28
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47330.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 29" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 29
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47331.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 33" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 33
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47332.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 34" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 34
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47333.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 35" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 35
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47334.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 39" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 39
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47335.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 4" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 4
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47319.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 41" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 41
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47336.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 42" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 42
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47337.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 43" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 43
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47338.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 46" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 46
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47339.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 5" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 5
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47320.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Brz Content 6" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Brz Content 6
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47321.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 10" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 10
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47351.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47352.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 16" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 16
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47353.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 17" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 17
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47354.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 18" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 18
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47355.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 20" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 20
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47356.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 21" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 21
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47357.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 23" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 23
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47358.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 25" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 25
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47359.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 27" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 27
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47360.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 29" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 29
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47361.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 3" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 3
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47348.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 30" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 30
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47362.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 32" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 32
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47363.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 34" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 34
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47364.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 35" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 35
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47365.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 38" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 38
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47366.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 40" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 40
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47367.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 41" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 41
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47368.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 43" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 43
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47369.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 47" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 47
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47370.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 48" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 48
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47371.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 51" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 51
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47372.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 52" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 52
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47373.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 53" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 53
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47374.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 54" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 54
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47375.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 55" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 55
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47376.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 7" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 7
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47349.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:Evil Angels 8" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:Evil Angels 8
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47350.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 1" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 1
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47409.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 14" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 14
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47414.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 15" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 15
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47415.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 17" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 17
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47416.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 19" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 19
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47417.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 20" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 20
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47418.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 23" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 23
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47419.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 24" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 24
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47420.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 3" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 3
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47410.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 5" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 5
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47411.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 6" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 6
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47412.mkv
-#EXTINF:-1 tvg-id="" tvg-name="Adulte:FULL PORNX 9" tvg-logo="http://178.63.85.249:8080/images/63f55da9cae8184bbdc7375ceef05f1b.jpg" group-title="YENI ADULT 18 ",Adulte:FULL PORNX 9
-http://1881.nemutluturkumdiyene.info:8080/movie/kASMDasasdL/B7D4muWm74/47413.mkv
-#EXTINF:-1 tvg-id="" tvg-name="===ADULTS LIVE===" tvg-logo="" group-title="ADULT 18 LIVE",===ADULTS LIVE===
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/11521.ts
-#EXTINF:-1 tvg-id="" tvg-name="Shemale Tube TV 1" tvg-logo="" group-title="ADULT 18 LIVE",Shemale Tube TV 1
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/17392.ts
-#EXTINF:-1 tvg-id="" tvg-name="Exxxotica TV" tvg-logo="" group-title="ADULT 18 LIVE",Exxxotica TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82542.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink O Club" tvg-logo="" group-title="ADULT 18 LIVE",Pink O Club
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82543.ts
-#EXTINF:-1 tvg-id="" tvg-name="French Lover TV" tvg-logo="" group-title="ADULT 18 LIVE",French Lover TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82544.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nuart TV" tvg-logo="" group-title="ADULT 18 LIVE",Nuart TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82545.ts
-#EXTINF:-1 tvg-id="" tvg-name="Russian Night" tvg-logo="" group-title="ADULT 18 LIVE",Russian Night
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82546.ts
-#EXTINF:-1 tvg-id="" tvg-name="Blue Hustler HD" tvg-logo="" group-title="ADULT 18 LIVE",Blue Hustler HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82547.ts
-#EXTINF:-1 tvg-id="" tvg-name="Playboy TV" tvg-logo="" group-title="ADULT 18 LIVE",Playboy TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82548.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lesbian TV" tvg-logo="" group-title="ADULT 18 LIVE",Lesbian TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82549.ts
-#EXTINF:-1 tvg-id="" tvg-name="U Bang" tvg-logo="" group-title="ADULT 18 LIVE",U Bang
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82550.ts
-#EXTINF:-1 tvg-id="" tvg-name="Digital Playground HD" tvg-logo="" group-title="ADULT 18 LIVE",Digital Playground HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82551.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brunette Adult TV" tvg-logo="" group-title="ADULT 18 LIVE",Brunette Adult TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82552.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bang" tvg-logo="" group-title="ADULT 18 LIVE",Bang
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82553.ts
-#EXTINF:-1 tvg-id="" tvg-name="Balkan Erotic HD" tvg-logo="" group-title="ADULT 18 LIVE",Balkan Erotic HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82554.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 7" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic 7
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82555.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 6" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic 6
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82556.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 5" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic 5
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82557.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 4" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic 4
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82558.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 3" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic 3
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82559.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic 2" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic 2
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82560.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink Erotic" tvg-logo="" group-title="ADULT 18 LIVE",Pink Erotic
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82561.ts
-#EXTINF:-1 tvg-id="" tvg-name="Digital Desire HD" tvg-logo="" group-title="ADULT 18 LIVE",Digital Desire HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82562.ts
-#EXTINF:-1 tvg-id="" tvg-name="Evil Angel HD" tvg-logo="" group-title="ADULT 18 LIVE",Evil Angel HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82563.ts
-#EXTINF:-1 tvg-id="" tvg-name="Meiden Van Holland" tvg-logo="" group-title="ADULT 18 LIVE",Meiden Van Holland
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82564.ts
-#EXTINF:-1 tvg-id="" tvg-name="Moms Teach Sex" tvg-logo="" group-title="ADULT 18 LIVE",Moms Teach Sex
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82565.ts
-#EXTINF:-1 tvg-id="" tvg-name="Venus TV" tvg-logo="" group-title="ADULT 18 LIVE",Venus TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82566.ts
-#EXTINF:-1 tvg-id="" tvg-name="HOT" tvg-logo="" group-title="ADULT 18 LIVE",HOT
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82567.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers TV Europe" tvg-logo="" group-title="ADULT 18 LIVE",Brazzers TV Europe
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82568.ts
-#EXTINF:-1 tvg-id="" tvg-name="Brazzers HD" tvg-logo="" group-title="ADULT 18 LIVE",Brazzers HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82569.ts
-#EXTINF:-1 tvg-id="" tvg-name="SCT" tvg-logo="" group-title="ADULT 18 LIVE",SCT
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82570.ts
-#EXTINF:-1 tvg-id="" tvg-name="Sext  Senso" tvg-logo="" group-title="ADULT 18 LIVE",Sext  Senso
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82571.ts
-#EXTINF:-1 tvg-id="" tvg-name="Private HD" tvg-logo="" group-title="ADULT 18 LIVE",Private HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82572.ts
-#EXTINF:-1 tvg-id="" tvg-name="Pink O Club" tvg-logo="" group-title="ADULT 18 LIVE",Pink O Club
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82573.ts
-#EXTINF:-1 tvg-id="" tvg-name="Passion XXX" tvg-logo="" group-title="ADULT 18 LIVE",Passion XXX
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82574.ts
-#EXTINF:-1 tvg-id="" tvg-name="XXL" tvg-logo="" group-title="ADULT 18 LIVE",XXL
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82575.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hustler TV" tvg-logo="" group-title="ADULT 18 LIVE",Hustler TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82576.ts
-#EXTINF:-1 tvg-id="" tvg-name="18+" tvg-logo="" group-title="ADULT 18 LIVE",18+
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82577.ts
-#EXTINF:-1 tvg-id="" tvg-name="Babes TV HD" tvg-logo="" group-title="ADULT 18 LIVE",Babes TV HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82578.ts
-#EXTINF:-1 tvg-id="" tvg-name="SEX ATION HD" tvg-logo="" group-title="ADULT 18 LIVE",SEX ATION HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82579.ts
-#EXTINF:-1 tvg-id="" tvg-name="Super One HD" tvg-logo="" group-title="ADULT 18 LIVE",Super One HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82580.ts
-#EXTINF:-1 tvg-id="" tvg-name="Penthouse Gold HD" tvg-logo="" group-title="ADULT 18 LIVE",Penthouse Gold HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82581.ts
-#EXTINF:-1 tvg-id="" tvg-name="Erox XXX HD" tvg-logo="" group-title="ADULT 18 LIVE",Erox XXX HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82582.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hot Gold HD" tvg-logo="" group-title="ADULT 18 LIVE",Hot Gold HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82583.ts
-#EXTINF:-1 tvg-id="" tvg-name="Vivid Red HD" tvg-logo="" group-title="ADULT 18 LIVE",Vivid Red HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82584.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel XXX HD" tvg-logo="" group-title="ADULT 18 LIVE",Dorcel XXX HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82585.ts
-#EXTINF:-1 tvg-id="" tvg-name="Dorcel HD" tvg-logo="" group-title="ADULT 18 LIVE",Dorcel HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82586.ts
-#EXTINF:-1 tvg-id="" tvg-name="Redlight HD" tvg-logo="" group-title="ADULT 18 LIVE",Redlight HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82587.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hustler HD" tvg-logo="" group-title="ADULT 18 LIVE",Hustler HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/82588.ts
-#EXTINF:-1 tvg-id="" tvg-name="HUSTER HD" tvg-logo="http://5.betahizmet.com:8080/images/6a3519bc08c035048793d0544a7eacd1.png" group-title="ADULT 18 LIVE",HUSTER HD
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/45194.ts
-#EXTINF:-1 tvg-id="" tvg-name="O-LA-LA" tvg-logo="http://5.betahizmet.com:8080/images/fc45433515472c839703a3927f3b6dd4.png" group-title="ADULT 18 LIVE",O-LA-LA
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/45195.ts
-#EXTINF:-1 tvg-id="" tvg-name="PRIVATE TV" tvg-logo="http://4.betahizmet.com:8080/images/8387add282c7477f157468c69851dc7e.png" group-title="ADULT 18 LIVE",PRIVATE TV
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/45198.ts
-#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER" tvg-logo="http://5.betahizmet.com:8080/images/c0aa870b10d22680b1dc15809d8a7ffa.png" group-title="ADULT 18 LIVE",BLUE HUSTLER
-http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/45234.ts
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| SPAIN |  #####" tvg-logo="" group-title="SPAIN FDH",##### |SP| SPAIN |  #####
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105226
+#EXTINF:-1 tvg-id="tveinteu.es" tvg-name="|SP| TVE INTERNACIONAL HD" tvg-logo="http://134.255.234.197/logos/tveinternacional.png" group-title="SPAIN FDH",|SP| TVE INTERNACIONAL HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105225
+#EXTINF:-1 tvg-id="la1.es" tvg-name="|SP| LA 1 HD" tvg-logo="http://134.255.234.197/logos/tvela1hd.png" group-title="SPAIN FDH",|SP| LA 1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105224
+#EXTINF:-1 tvg-id="la2.es" tvg-name="|SP| LA 2  HD" tvg-logo="http://134.255.234.197/logos/tvela2hd.png" group-title="SPAIN FDH",|SP| LA 2  HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105223
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="|SP| ANTENA 3 HD" tvg-logo="http://134.255.234.197/logos/antena3hd.png" group-title="SPAIN FDH",|SP| ANTENA 3 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105222
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="|SP| CUATRO HD" tvg-logo="http://134.255.234.197/logos/cuatrohd.png" group-title="SPAIN FDH",|SP| CUATRO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105221
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="|SP| TELECINCO HD" tvg-logo="http://134.255.234.197/logos/telecincohd.png" group-title="SPAIN FDH",|SP| TELECINCO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105220
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="|SP| LA SEXTA HD" tvg-logo="http://134.255.234.197/logos/lasextahd.png" group-title="SPAIN FDH",|SP| LA SEXTA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105219
+#EXTINF:-1 tvg-id="canalsurandalucia.es" tvg-name="|SP| CANAL SUR A." tvg-logo="http://134.255.234.197/logos/canalsurandalucia.png" group-title="SPAIN FDH",|SP| CANAL SUR A.
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105218
+#EXTINF:-1 tvg-id="" tvg-name="|SP| FDF" tvg-logo="http://134.255.234.197/logos/fdf.png" group-title="SPAIN FDH",|SP| FDF
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105217
+#EXTINF:-1 tvg-id="energy.es" tvg-name="|SP| ENERGY" tvg-logo="http://134.255.234.197/logos/energy.png" group-title="SPAIN FDH",|SP| ENERGY
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105216
+#EXTINF:-1 tvg-id="divinity.es" tvg-name="|SP| DIVINITY" tvg-logo="http://134.255.234.197/logos/divinity.png" group-title="SPAIN FDH",|SP| DIVINITY
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105215
+#EXTINF:-1 tvg-id="mega.es" tvg-name="|SP| MEGA HD" tvg-logo="http://134.255.234.197/logos/mega.png" group-title="SPAIN FDH",|SP| MEGA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105214
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="|SP| BE MAD" tvg-logo="http://134.255.234.197/logos/bemad.png" group-title="SPAIN FDH",|SP| BE MAD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105213
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| CANAL 24 HORAS" tvg-logo="http://134.255.234.197/logos/canal24horas.png" group-title="SPAIN FDH",|SP| CANAL 24 HORAS
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105212
+#EXTINF:-1 tvg-id="" tvg-name="|SP| 0 HD" tvg-logo="http://134.255.234.197/logos/cero.png" group-title="SPAIN FDH",|SP| 0 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105211
+#EXTINF:-1 tvg-id="aragontv.es" tvg-name="|SP| ARAGON TV INT" tvg-logo="http://134.255.234.197/logos/aragontvint.png" group-title="SPAIN FDH",|SP| ARAGON TV INT
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105210
+#EXTINF:-1 tvg-id="nova.es" tvg-name="|SP| NOVA" tvg-logo="http://134.255.234.197/logos/nova.png" group-title="SPAIN FDH",|SP| NOVA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105209
+#EXTINF:-1 tvg-id="" tvg-name="|SP| CANAL ORBE21" tvg-logo="http://134.255.234.197/logos/canalorbe21.png" group-title="SPAIN FDH",|SP| CANAL ORBE21
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105208
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="|SP| 24 HORAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/120px-Logo_TVE-24h.svg.png" group-title="SPAIN FDH",|SP| 24 HORAS
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105207
+#EXTINF:-1 tvg-id="tvgalicia.es" tvg-name="|SP| TVGA HD" tvg-logo="https://i5.satexpat.com/cha/es/galicia-55x54.gif" group-title="SPAIN FDH",|SP| TVGA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105206
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="|SP| #VAMOS HD" tvg-logo="http://134.255.234.197/logos/vamos.png" group-title="SPAIN FDH",|SP| #VAMOS HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105205
+#EXTINF:-1 tvg-id="xtrm.es" tvg-name="|SP| XTRM HD" tvg-logo="http://134.255.234.197/logos/xtrm.png" group-title="SPAIN FDH",|SP| XTRM HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105204
+#EXTINF:-1 tvg-id="atreseries.es" tvg-name="|SP| ATRE SERIES HD" tvg-logo="http://134.255.234.197/logos/atreseries.png" group-title="SPAIN FDH",|SP| ATRE SERIES HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105203
+#EXTINF:-1 tvg-id="neox.es" tvg-name="|SP| NEOX" tvg-logo="http://134.255.234.197/logos/neox.png" group-title="SPAIN FDH",|SP| NEOX
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105202
+#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| NINOS HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------ |SP| NINOS HD -------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105201
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="|SP| BABY TV" tvg-logo="http://134.255.234.197/logos/babytv.png" group-title="SPAIN FDH",|SP| BABY TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105200
+#EXTINF:-1 tvg-id="boing.es" tvg-name="|SP| BOING" tvg-logo="http://134.255.234.197/logos/boing.png" group-title="SPAIN FDH",|SP| BOING
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105199
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="|SP| CLAN TVE" tvg-logo="http://134.255.234.197/logos/tveclan.png" group-title="SPAIN FDH",|SP| CLAN TVE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105198
+#EXTINF:-1 tvg-id="disneychannel.es" tvg-name="|SP| DISNEY CH HD" tvg-logo="http://134.255.234.197/logos/disneychannel.png" group-title="SPAIN FDH",|SP| DISNEY CH HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105197
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="|SP| DISNEY JR" tvg-logo="http://134.255.234.197/logos/disneyjunior.png" group-title="SPAIN FDH",|SP| DISNEY JR
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105196
+#EXTINF:-1 tvg-id="dreamworks.es" tvg-name="|SP| DREAMWORKS" tvg-logo="http://134.255.234.197/logos/disneyplus.png" group-title="SPAIN FDH",|SP| DREAMWORKS
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105195
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="|SP| NICK JR" tvg-logo="http://134.255.234.197/logos/nickjr.png" group-title="SPAIN FDH",|SP| NICK JR
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105194
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="|SP| NICKELODEON  HD" tvg-logo="http://134.255.234.197/logos/nickelodeon.png" group-title="SPAIN FDH",|SP| NICKELODEON  HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105193
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="|SP| CANAL PANDA" tvg-logo="http://134.255.234.197/logos/canalpanda.png" group-title="SPAIN FDH",|SP| CANAL PANDA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105192
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| NICK/MTV" tvg-logo="" group-title="SPAIN FDH",|SP| NICK/MTV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105191
+#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| ENTRETENIMIENTO  HD ---------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------- |SP| ENTRETENIMIENTO  HD ---------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105190
+#EXTINF:-1 tvg-id="amc.es" tvg-name="|SP| AMC HD" tvg-logo="http://134.255.234.197/logos/amc.png" group-title="SPAIN FDH",|SP| AMC HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105189
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN" tvg-logo="http://134.255.234.197/logos/axn.png" group-title="SPAIN FDH",|SP| AXN
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105188
+#EXTINF:-1 tvg-id="axn.es" tvg-name="|SP| AXN HD" tvg-logo="http://134.255.234.197/logos/axnhd.png" group-title="SPAIN FDH",|SP| AXN HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105187
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="|SP| AXN WHITE HD" tvg-logo="http://134.255.234.197/logos/axnwhitehd.png" group-title="SPAIN FDH",|SP| AXN WHITE HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105186
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="|SP| CALLE 13 HD" tvg-logo="http://134.255.234.197/logos/calle13hd.png" group-title="SPAIN FDH",|SP| CALLE 13 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105185
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="|SP| COMEDY CENTRAL HD" tvg-logo="http://134.255.234.197/logos/comedycentralhd.png" group-title="SPAIN FDH",|SP| COMEDY CENTRAL HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105184
+#EXTINF:-1 tvg-id="cosmo.es" tvg-name="|SP| COSMO HD" tvg-logo="http://134.255.234.197/logos/cosmo.png" group-title="SPAIN FDH",|SP| COSMO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105183
+#EXTINF:-1 tvg-id="fox.es" tvg-name="|SP| FOX HD" tvg-logo="http://134.255.234.197/logos/fox.png" group-title="SPAIN FDH",|SP| FOX HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105182
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="|SP| FOX LIFE HD" tvg-logo="http://134.255.234.197/logos/foxlife.png" group-title="SPAIN FDH",|SP| FOX LIFE HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105181
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="|SP| HOLLYWOOD HD" tvg-logo="http://134.255.234.197/logos/hollywood.png" group-title="SPAIN FDH",|SP| HOLLYWOOD HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105180
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="|SP| PARAMOUNT" tvg-logo="http://134.255.234.197/logos/paramountchannelhd.png" group-title="SPAIN FDH",|SP| PARAMOUNT
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105179
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="|SP| SUNDANCE TV" tvg-logo="http://134.255.234.197/logos/sundancetv.png" group-title="SPAIN FDH",|SP| SUNDANCE TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105178
+#EXTINF:-1 tvg-id="syfy.es" tvg-name="|SP| SYFY HD" tvg-logo="http://134.255.234.197/logos/syfy.png" group-title="SPAIN FDH",|SP| SYFY HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105177
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="|SP| TCM HD" tvg-logo="http://134.255.234.197/logos/tcm.png" group-title="SPAIN FDH",|SP| TCM HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105176
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="|SP| TNT HD" tvg-logo="http://134.255.234.197/logos/tnt.png" group-title="SPAIN FDH",|SP| TNT HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105175
+#EXTINF:-1 tvg-id="classica.es" tvg-name="|SP| CLASSICA" tvg-logo="http://134.255.234.197/logos/classicahd-phibruspel.png" group-title="SPAIN FDH",|SP| CLASSICA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105174
+#EXTINF:-1 tvg-id="" tvg-name="------------ |SP| MOVIESTAR HD --------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------ |SP| MOVIESTAR HD --------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105173
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="|SP| M.ACCION HD" tvg-logo="http://134.255.234.197/logos/movistaraccion.png" group-title="SPAIN FDH",|SP| M.ACCION HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105172
+#EXTINF:-1 tvg-id="movistardcine.es" tvg-name="|SP| M. CINE ESPANOL" tvg-logo="http://134.255.234.197/logos/movistarcineespagnol.png" group-title="SPAIN FDH",|SP| M. CINE ESPANOL
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105171
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="|SP| M. COMEDIA HD" tvg-logo="http://134.255.234.197/logos/movistarcomedia.png" group-title="SPAIN FDH",|SP| M. COMEDIA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105170
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="|SP| M.DRAMA HD" tvg-logo="http://134.255.234.197/logos/movistardrama.png" group-title="SPAIN FDH",|SP| M.DRAMA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105169
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="|SP| M.ESTRENOS HD" tvg-logo="http://134.255.234.197/logos/movistarestrenos.png" group-title="SPAIN FDH",|SP| M.ESTRENOS HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105168
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="|SP| M.SERIES HD" tvg-logo="http://134.255.234.197/logos/movistarseries.png" group-title="SPAIN FDH",|SP| M.SERIES HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105167
+#EXTINF:-1 tvg-id="movistarseries2.es" tvg-name="|SP| M.SERIESMANIA HD" tvg-logo="http://134.255.234.197/logos/movistarseriesmania.png" group-title="SPAIN FDH",|SP| M.SERIESMANIA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105166
+#EXTINF:-1 tvg-id="" tvg-name="-----| ALQELIER SPAIN |-----" tvg-logo="" group-title="SPAIN FDH",-----| ALQELIER SPAIN |-----
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105165
+#EXTINF:-1 tvg-id="alquiler1.es" tvg-name="|ES| ALQELIER 1" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105164
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 2 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 2 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105163
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 3 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 3 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105162
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 4 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 4 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105161
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 5 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 5 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105160
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 6 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 6 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105159
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 7 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 7 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105158
+#EXTINF:-1 tvg-id="" tvg-name="|ES| ALQELIER 8 HD" tvg-logo="" group-title="SPAIN FDH",|ES| ALQELIER 8 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105157
+#EXTINF:-1 tvg-id="" tvg-name="------------- |SP| MUSICA HD -------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",------------- |SP| MUSICA HD -------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105156
+#EXTINF:-1 tvg-id="mtv.es" tvg-name="|SP| MTV" tvg-logo="http://134.255.234.197/logos/mtv.png" group-title="SPAIN FDH",|SP| MTV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105155
+#EXTINF:-1 tvg-id="" tvg-name="|SP| MTV DANCE" tvg-logo="http://134.255.234.197/logos/mtvdance.png" group-title="SPAIN FDH",|SP| MTV DANCE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105154
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="|SP| MEZZO LIVE HD" tvg-logo="http://134.255.234.197/logos/mezzolivehd.png" group-title="SPAIN FDH",|SP| MEZZO LIVE HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105153
+#EXTINF:-1 tvg-id="mezzo.es" tvg-name="|SP| MEZZO" tvg-logo="http://134.255.234.197/logos/mezzo.png" group-title="SPAIN FDH",|SP| MEZZO
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105152
+#EXTINF:-1 tvg-id="" tvg-name="--------- |SP| CULTURA HD ------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",--------- |SP| CULTURA HD ------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105151
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="|SP| BLAZE" tvg-logo="http://134.255.234.197/logos/blaze.png" group-title="SPAIN FDH",|SP| BLAZE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105150
+#EXTINF:-1 tvg-id="canalcocina.es" tvg-name="|SP| CANAL COCINA" tvg-logo="https://i5.satexpat.com/cha/es/canalCocina_90x27.gif" group-title="SPAIN FDH",|SP| CANAL COCINA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105149
+#EXTINF:-1 tvg-id="canaldecasa.es" tvg-name="|SP| CANAL DECASA" tvg-logo="https://i5.satexpat.com/cha/es/decasa_85x29.gif" group-title="SPAIN FDH",|SP| CANAL DECASA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105148
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="|SP| CAZAYPESCA HD" tvg-logo="https://i5.satexpat.com/cha/es/cazaYpesca_42x50.gif" group-title="SPAIN FDH",|SP| CAZAYPESCA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105147
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="|SP| IBERALIA TV" tvg-logo="https://i5.satexpat.com/cha/es/iberalia-35x40.png" group-title="SPAIN FDH",|SP| IBERALIA TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105143
+#EXTINF:-1 tvg-id="toros.es" tvg-name="|SP| TOROS HD" tvg-logo="http://134.255.234.197/logos/torostv.png" group-title="SPAIN FDH",|SP| TOROS HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105107
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="|SP| CRIMEN+INVES" tvg-logo="https://i5.satexpat.com/cha/es/crimen-investigacion-80x68.png" group-title="SPAIN FDH",|SP| CRIMEN+INVES
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105146
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="|SP| DISCOVERY" tvg-logo="https://i5.satexpat.com/cha/es/Discovery-95x18.png" group-title="SPAIN FDH",|SP| DISCOVERY
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105145
+#EXTINF:-1 tvg-id="historia.es" tvg-name="|SP| HISTORIA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusHistoria_49x46.png" group-title="SPAIN FDH",|SP| HISTORIA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105144
+#EXTINF:-1 tvg-id="natgeo.es" tvg-name="|SP| NAT GEO HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoChannel_95x37.gif" group-title="SPAIN FDH",|SP| NAT GEO HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105142
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="SPAIN FDH",|SP| NAT GEO WILD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105141
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="|SP| NAT GEO WILD HD" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusNatGeoWild_90x38.gif" group-title="SPAIN FDH",|SP| NAT GEO WILD HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105140
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="|SP| CANAL ODISEA" tvg-logo="https://i5.satexpat.com/cha/es/canalPlusOdisea_41x46.png" group-title="SPAIN FDH",|SP| CANAL ODISEA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105139
+#EXTINF:-1 tvg-id="viajar.es" tvg-name="|SP| VIAJAR HD" tvg-logo="https://i5.satexpat.com/cha/es/viajar_85x31.png" group-title="SPAIN FDH",|SP| VIAJAR HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105138
+#EXTINF:-1 tvg-id="" tvg-name="|SP| VH1" tvg-logo="https://i5.satexpat.com/cha/es/vh1_eu_80x31.png" group-title="SPAIN FDH",|SP| VH1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105137
+#EXTINF:-1 tvg-id="" tvg-name="##### |SP| DEPORTES #####" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",##### |SP| DEPORTES #####
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105136
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|SP| M.DEPORTES1 HD" tvg-logo="http://134.255.234.197/logos/movistardeportes1.png" group-title="SPAIN FDH",|SP| M.DEPORTES1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105135
+#EXTINF:-1 tvg-id="movistardeportes.es" tvg-name="|SP| M. DEPORTES HD" tvg-logo="http://134.255.234.197/logos/movistardeportes.png" group-title="SPAIN FDH",|SP| M. DEPORTES HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105134
+#EXTINF:-1 tvg-id="teledeporte.es" tvg-name="|SP| TELEDEPORTE" tvg-logo="http://134.255.234.197/logos/teledeporte.png" group-title="SPAIN FDH",|SP| TELEDEPORTE
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105133
+#EXTINF:-1 tvg-id="" tvg-name="--------------- |SP| SPORTS HD -------------------" tvg-logo="https://cdn.countryflags.com/thumbs/spain/flag-round-250.png" group-title="SPAIN FDH",--------------- |SP| SPORTS HD -------------------
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105131
+#EXTINF:-1 tvg-id="daznf1.es" tvg-name="|ES| DAZN F1" tvg-logo="" group-title="SPAIN FDH",|ES| DAZN F1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105126
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|ES| REAL MADRID TV" tvg-logo="" group-title="SPAIN FDH",|ES| REAL MADRID TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105122
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="|ES| BARCA TV" tvg-logo="" group-title="SPAIN FDH",|ES| BARCA TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105121
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|ES| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAIN FDH",|ES| EUROSPORT 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105120
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|ES| M. F1" tvg-logo="" group-title="SPAIN FDH",|ES| M. F1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105119
+#EXTINF:-1 tvg-id="movistargolf.es" tvg-name="|ES| M. GOLF" tvg-logo="http://one-iptv.com/logoX/SfrSport/golf.png" group-title="SPAIN FDH",|ES| M. GOLF
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105118
+#EXTINF:-1 tvg-id="mligadecampeones.es" tvg-name="|SP| M.LCAMPEONES" tvg-logo="http://134.255.234.197/logos/movistarligadecampeones.png" group-title="SPAIN FDH",|SP| M.LCAMPEONES
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105116
+#EXTINF:-1 tvg-id="laligatvbar.es" tvg-name="|SP| LALIGA TV BAR" tvg-logo="http://134.255.234.197/logos/laligatvbar.png" group-title="SPAIN FDH",|SP| LALIGA TV BAR
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105115
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|SP| BEIN LALIGA HD" tvg-logo="http://134.255.234.197/logos/beinsportslaliga.png" group-title="SPAIN FDH",|SP| BEIN LALIGA HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105114
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT1 HD" tvg-logo="http://134.255.234.197/logos/eurosport1hd.png" group-title="SPAIN FDH",|SP| EUROSPORT1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105113
+#EXTINF:-1 tvg-id="eurosport1.es" tvg-name="|SP| EUROSPORT 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/1280px-Eurosport_1_Logo_2015.svg.png" group-title="SPAIN FDH",|SP| EUROSPORT 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105112
+#EXTINF:-1 tvg-id="eurosport2.es" tvg-name="|SP| EUROSPORT 2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Eurosport_2_logo.svg/1280px-Eurosport_2_logo.svg.png" group-title="SPAIN FDH",|SP| EUROSPORT 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105111
+#EXTINF:-1 tvg-id="gol.es" tvg-name="|SP| GOL" tvg-logo="http://134.255.234.197/logos/gol.png" group-title="SPAIN FDH",|SP| GOL
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105110
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="|SP| R. MADRID TV" tvg-logo="http://134.255.234.197/logos/realmadridtv.png" group-title="SPAIN FDH",|SP| R. MADRID TV
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105108
+#EXTINF:-1 tvg-id="dazn1.es" tvg-name="|SP| DAZN 1 HD" tvg-logo="http://134.255.234.197/logos/dazn1.png" group-title="SPAIN FDH",|SP| DAZN 1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105106
+#EXTINF:-1 tvg-id="dazn2.es" tvg-name="|SP| DAZN 2 HD" tvg-logo="http://134.255.234.197/logos/dazn2.png" group-title="SPAIN FDH",|SP| DAZN 2 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105105
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga1.png" group-title="SPAIN FDH",|SP| M. LALIGA 1 HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105094
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga2.png" group-title="SPAIN FDH",|SP| M. LALIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105093
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarlaliga3.png" group-title="SPAIN FDH",|SP| M. LALIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105092
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|SP| M.FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPAIN FDH",|SP| M.FORMULA1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105091
+#EXTINF:-1 tvg-id="movistarformula1.es" tvg-name="|SP| M. FORMULA1 HD" tvg-logo="http://134.255.234.197/logos/movistarformula1.png" group-title="SPAIN FDH",|SP| M. FORMULA1 HD
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105090
+#EXTINF:-1 tvg-id="barcatv.es" tvg-name="barca tv" tvg-logo="http://134.255.234.197/logos/movistargolf.png" group-title="SPAIN FDH",barca tv
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105089
+#EXTINF:-1 tvg-id="" tvg-name="|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)" tvg-logo="http://134.255.234.197/logos/movistarpartidazo.png" group-title="SPAIN FDH",|SP| M.PARTIDAZO HD (ONLY DURING LIVE MATCHES)
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105088
+#EXTINF:-1 tvg-id="" tvg-name="-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----" tvg-logo="" group-title="SPAIN FDH",-----| DEPORTES ESPAÑOL (SOLO PARTIDO) |-----
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105070
+#EXTINF:-1 tvg-id="" tvg-name="DAZN liga 2" tvg-logo="" group-title="SPAIN FDH",DAZN liga 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/153520
+#EXTINF:-1 tvg-id="" tvg-name="DAZN liga 1" tvg-logo="" group-title="SPAIN FDH",DAZN liga 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/153519
+#EXTINF:-1 tvg-id="mlaliga.es" tvg-name="|ES| M. LALIGA" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105069
+#EXTINF:-1 tvg-id="mlaliga1.es" tvg-name="|ES| M. LALIGA 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105068
+#EXTINF:-1 tvg-id="mlaliga2.es" tvg-name="|ES| M. LALIGA 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105067
+#EXTINF:-1 tvg-id="mlaliga3.es" tvg-name="|ES| M. LALIGA 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 3
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105066
+#EXTINF:-1 tvg-id="mlaliga4.es" tvg-name="|ES| M. LALIGA 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105065
+#EXTINF:-1 tvg-id="mlaliga6.es" tvg-name="|ES| M. LALIGA 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 6
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105064
+#EXTINF:-1 tvg-id="mlaliga7.es" tvg-name="|ES| M. LALIGA 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 7
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105063
+#EXTINF:-1 tvg-id="mlaliga8.es" tvg-name="|ES| M. LALIGA 8" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105062
+#EXTINF:-1 tvg-id="mlaliga9.es" tvg-name="|ES| M. LALIGA 9" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 9
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105061
+#EXTINF:-1 tvg-id="" tvg-name="|ES| M. LALIGA 10" tvg-logo="" group-title="SPAIN FDH",|ES| M. LALIGA 10
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105060
+#EXTINF:-1 tvg-id="mdeportes1.es" tvg-name="|ES| M. DEPORTES 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105059
+#EXTINF:-1 tvg-id="mdeportes2.es" tvg-name="|ES| M. DEPORTES 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105058
+#EXTINF:-1 tvg-id="mdeportes3.es" tvg-name="|ES| M. DEPORTES 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 3
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105057
+#EXTINF:-1 tvg-id="mdeportes4.es" tvg-name="|ES| M. DEPORTES 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105056
+#EXTINF:-1 tvg-id="mdeportes5.es" tvg-name="|ES| M. DEPORTES 5" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 5
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105055
+#EXTINF:-1 tvg-id="mdeportes6.es" tvg-name="|ES| M. DEPORTES 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 6
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105054
+#EXTINF:-1 tvg-id="mdeportes7.es" tvg-name="|ES| M. DEPORTES 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. DEPORTES 7
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105053
+#EXTINF:-1 tvg-id="mligadecampeones1.es" tvg-name="|ES| M. LCAMPEON 1" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 1
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105052
+#EXTINF:-1 tvg-id="mligadecampeones2.es" tvg-name="|ES| M. LCAMPEON 2" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 2
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105051
+#EXTINF:-1 tvg-id="mligadecampeones3.es" tvg-name="|ES| M. LCAMPEON 3" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 3
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105050
+#EXTINF:-1 tvg-id="mligadecampeones4.es" tvg-name="|ES| M. LCAMPEON 4" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 4
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105049
+#EXTINF:-1 tvg-id="mligadecampeones5.es" tvg-name="|ES| M. LCAMPEON 5" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 5
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105048
+#EXTINF:-1 tvg-id="mligadecampeones6.es" tvg-name="|ES| M. LCAMPEON 6" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 6
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105047
+#EXTINF:-1 tvg-id="mligadecampeones7.es" tvg-name="|ES| M. LCAMPEON 7" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 7
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105046
+#EXTINF:-1 tvg-id="mligadecampeones8.es" tvg-name="|ES| M. LCAMPEON 8" tvg-logo="" group-title="SPAIN FDH",|ES| M. LCAMPEON 8
+http://revteam11.offshorerev.cc:80/mag00:1A:79:5C:72:39/FxE3ubXWMx/105045
