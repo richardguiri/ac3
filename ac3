@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
 #EXTINF:-1 tvg-id="" tvg-name="========= SPAIN =========" tvg-logo="" group-title="SPAIN",========= SPAIN =========
 http://1881.nemutluturkumdiyene.info:8080/live/kASMDasasdL/B7D4muWm74/49482.ts
 #EXTINF:-1 tvg-id="" tvg-name="ES: LA 1 HD" tvg-logo="" group-title="SPAIN",ES: LA 1 HD
